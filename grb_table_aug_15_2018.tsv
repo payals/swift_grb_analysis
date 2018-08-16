@@ -1,0 +1,1239 @@
+GRB	Time [UT]	BAT RA (J2000)	BAT Dec (J2000)	BAT T90 [sec]	BAT Fluence (15-150 keV) [10^-7 erg/cm^2]	Other Observatory Detections	Redshift	Host Galaxy
+180812A	08:22:30	245.839	74.674	16.51	8.0	BOOTES-5/JGT (60cm), COATLI (50cm), Fermi (GBM)
+180809B	20:28:48	299.712	-15.293	233.2	730	MASTER-SAAO, MPG (2.2m), LCO Sutherland (1m), MASTER-Tavrida, MASTER-IAC, CALET (CGBM), CrAO (2.6m), Konus-Wind, La Silla (NTT)
+180805B	13:02:36	25.877	-17.475	122.5	9.6	Fermi (GBM)
+180805A	09:04:49	167.575	-45.327	1.68	1.1
+180728A	17:29:00	253.574	-54.037	8.68	296	MASTER-SAAO, Fermi (GBM), VLT, Konus-Wind, Astrosat (CZTI)	0.117 (VLT: absorption)
+180727A	14:15:28	346.639	-63.066	1.1	2.7	Fermi (GBM)
+180721A	11:06:48	347.708	4.871	47.6	5.9
+180720C	22:23:57	265.655	-26.634	124.2	24	Fermi (GBM)
+180720B	14:21:44	0.528	-2.925	n/a	860	Kanata (1.5m), LCO (2m), Zeiss-1000 (TSHAO), Fermi (LAT & GBM), MITSuME (50cm), OSN (T90), LCO (0.4m), MAXI/GSC, VLT, Murikabushi (1m), Konus-Wind, COATLI (50cm), ORI-22 (22 cm), REM (60cm), MASTER, Astronomical Institute Ondrejov (D50), KAIT, AMI-LA @ 15.5 GHz, OAJ (0.8m), NuSTAR, CALET (GBM), GMRT @ 1.4 GHz	0.654 (VLT: absorption)
+180718A	01:57:45	336.019	2.790	0.08	n/a	Fermi (GBM)
+180715A	18:07:05	235.085	-0.899	0.68	1.3	Fermi (GBM), CALET, Astrosat (CZTI)
+180709A	10:52:00	38.086	60.333	215.1	14
+180706A	08:24:40	181.687	66.044	42.7	24	COATLI (50cm), Fermi (GBM), Zeiss-1000, OSN (T150)
+180705A	15:41:14	212.605	-11.640	123.2	20
+180704A	05:36:42	32.605	69.965	19.7	62	Astrosat (CZTI), Konus-Wind
+180630A	11:11:51	48.885	-87.476	18.85	18	Fermi (GBM)
+180626A	08:21:16	243.569	14.759	30.07	48	INTEGRAL, LCO (2m), HJT (1.5m), COATLI (50cm), HJT (1.5m), Konus-Wind
+180624A	13:49:40	318.096	-2.356	486.4	58	LCO (1m), MPG (2.2m), LBT, HJT (1.5m), NOT (2.5m)	2.855 (LBT: absorption)
+180623A	16:41:56	214.528	-60.268	114.9	120	Konus-Wind
+180620B	15:50:37	357.514	-57.954	198.8	100	Fermi (GBM), MPG (2.2m), VLT, Konus-Wind, Astrosat	1.1175 (VLT: absorption)
+180620A	08:34:58	279.890	23.239	23.16	58	HJT (1.5m), ISON-NM, MASTER-OAFA, LCO (1m), COATLI (50cm), Xinglong (2.16m), KAIT (0.76m), MPG (2.2m), Konus-Wind, Astrosat
+180618A	00:43:13	169.948	73.825	47.4	6.7	Liverpool (2m), Fermi (GBM), MASTER II, Astrosat
+180614A	19:16:13	3.073	46.969	7.04	2.1	CrAO/ZTSH (2.6m)
+180613A	15:36:18	211.545	-43.082	50.8	n/a	VLT, LCO (1m)
+180602A	08:14:50	142.343	32.080	45.4	16
+180514A	13:25:33	197.382	36.970	46.9	10
+180512A	22:01:47	201.940	21.404	24.0	4.2
+180510B	20:15:42	77.965	-62.320	134.3	21	MPG (2.2m), VLT	1.305 (VLT: absorption)
+180510A	19:24:34	276.335	-31.917	40.4	62	Konus-Wind
+180504A	19:46:13	331.144	-14.665	88.3	22	NOT, La Silla (NTT)
+180425A	06:46:21	64.450	-32.949	11.2	11
+180418A	06:44:06	170.132	24.925	2.29	3.2	KAIT (0.76m), Faulkes North (2m), HJT (1.5m), Fermi (GBM), Gemini-North (8m), NOT (2.5m), MPG (2.2m), DOT (3.6m), McDonald Observatory (2.1m), Murikabushi (1m), TAROT (25cm)
+180411A	12:27:43	356.840	66.790	77.5	120	Fermi (GBM), Konus-Wind, CALET (GBM)
+180410A	08:02:59	95.974	12.804	100.7	22	Fermi (GBM)
+180407A	01:54:49	35.236	33.513	95.9	14
+180404B	02:11:44	53.390	-50.213	111.5	120	MASTER-OAFA, Fermi (GBM), Konus-Wind, AstroSat CZTI
+180404A	00:45:35	83.540	-37.168	35.2	13	VLT, MASTER-OAFA, Faulkes South (2m)	1.000 (VLT: absorption)
+180402A	09:44:59	251.923	-14.928	0.18	1.4	Fermi (GBM), Konus-Wind
+180331B	15:38:39	196.781	61.735	147.0	19
+180331A	04:14:55	66.005	13.386	48.0	6.1
+180329B	14:08:23	82.905	-23.694	210.0	33	NOT, HJT (1.5m), VLT, Faulks South (2m)	1.998 (VLT: absorption)
+180329A	00:58:00	329.314	-15.043	9.1	2.3
+180325A	01:53:02	157.416	24.461	94.1	65	Liverpool (2m), NOT (2.5m), REM (60cm), HJT (1.5m), SLKT (0.8m), D50 (0.5m), TAROT (25cm), MASTER-OAFA, MASTER-IAC, MPG (2.2m), Konus-Wind, VLT, AstroSat CZTI	2.25 (NOT: absorption)| 2.248 (VLT: absorption)
+180324A	04:37:09	76.581	56.744	7.2	5.6	Konus-Wind
+180316A	04:57:25	265.422	0.737	87.0	49	MASTER II (IAC), MPG (2.2m), LCO (1m), HJT (1.5m), HJT (1.5m), Zeiss-1000 (1m), Konus-Wind
+180314B	22:23:36	297.855	23.634	73.0	9.6
+180314A	00:43:31	99.208	-24.530	51.2	110	MPG (2.2m), MASTER-IAC, MASTER-OAFA, REM (60cm), VLT, Fermi (GBM), LCO (1m & 2m), TAROT (25cm), Konus-Wind, AstroSat CZTI	1.445 (VLT: absorption)
+180311A	18:03:49	3.379	-54.491	23.0	3.3
+180224A	22:21:07	202.675	38.073	10.9	4.7	MASTER-Kislovodsk, HJT (1.5m), AbAO (0.7m)
+180222A	13:10:03	256.537	-36.819	64.0	7.9	INTEGRAL
+180205A	04:25:29.3	126.819	11.536	15.5	10	KAIT (0.76m), MPG (2.2m), VLT, Fermi (GBM), Sayan (AZT-33IK), Nickel (1m), Xinglong TNT, Nanshan (1m), Mt. Lemmon (1m), Hankasalmi Observatory (0.4m), Abastumani Observatory AS-32 (0.7m), DOAO (1m), BAO (1m), Palomar (60"), Sayan Observatory (AZT-33IK)	1.409 (VLT: absorption)
+180204A	02:36:16	330.123	30.852	1.16	4.8	Fermi (GBM), Konus-Wind
+180115A	04:16:03	12.040	-15.632	40.9	7.6	NOT (2.5m), GTC (1.4m), Palomar (60")	2.487 (GTC)
+180113A	02:47:06	19.211	68.682	64	48	Fermi (GBM), Konus-Wind, CALET (GBM), Astrosat (CZTI)
+180111A	16:42:06	149.782	48.254	50.6	102	AGILE, HJT (1.5m), TNT, AbAO (AS-32, 0.7m), CALET (GBM), Konus-Wind, Insight-HXMT
+180103A	01:08:30	159.585	-53.555	n/a	n/a	AstroSat CZTI, Konus-Wind
+180102A	15:49:44	203.078	62.161	10.8	3.5	Fermi (GBM)
+171222A	16:24:59	148.273	35.624	174.8	19	NOT, GTC (10.4m), MASTER-Net, Nanshan (1m), Fermi (GBM)	2.409 (GTC: absorption)
+171216A	03:06:59	212.013	-50.500	30.0	4.8
+171212A	11:57:21	293.920	20.597	320	34	CALET (CGBM)
+171211A	09:27:32	98.154	-58.689	2.32	2.4
+171209A	14:46:16	139.387	-30.523	161.7	75	LCO (1m), Lulin (1m), Konus-Wind
+171205A	07:20:43	167.423	-12.599	189.4	36	VLT, HJT (1.5m), GMG (2.4m), NOEMA @ 150GHz, LSGT (0.43m), TNG (3.6m), GOTO, CTIO (1.3m), CHILESCOPE (1m), LCO (1m), MPG (2.2m), MASTER-SAAO, GTC (10.4m), TSHAO (1m), UKIRT (3.8m), VLA @ 6 GHz, SAO-RAS, Mondy (AZT-33IK), iTelescope (0.43m), MASTER-Net, Konus-Wind, JCMT, ALMA @ 92 and 340 GHz, RATAN @ 4.7 and 8.2 GHz, GMRT @ 1400 MHz, VLBA @ 4.4 GHz, eMERLIN @ 5.1 GHz	0.0368 (VLT: emission & absorption)	Likely host: 2MASX J11093966-1235116 (z = 0.037)
+171123A	14:14:47	186.198	32.503	58.5	4.8	Tautenburg
+171120A	13:20:02	163.774	22.461	64	86	Fermi (LAT & GBM), Konus-Wind, Astrosat CZTI, Insight-HXMT, CGBM
+171115A	18:51:20	278.392	9.118	38.2	6.9
+171103A	23:10:32	249.510	-10.206	3.90	3.8	Fermi (GBM), Konus-Wind, Astrosat, Insight-HXMT
+171102B	15:20:29	288.096	22.434	17.8	9.3
+171027A	08:23:06	61.683	-2.601	96.6	75	HJT (1.5m), Konus-Wind
+171020A	23:07:10	39.260	15.199	41.9	12	NOT, SAO RAS (1.0m), Liverpool (2m), HJT (1.5m), TAROT (25cm)	1.87 (NOT: absorption)
+171011A	18:32:47	236.766	-10.064	2.27	11
+171010B	20:59:24.168	34.123	-54.410	30.4	3.9	Fermi (GBM)
+171007A	11:57:38	135.635	42.930	105	2.9	Fermi (GBM)
+171004A	07:55:32	139.150	52.684	107.1	30
+171001A	18:25:40	22.080	-11.928	22.8	6.4	IRSF (1.4m), Nanshan (0.36m)
+170921A	14:28:48	26.840	30.880	28.9	6.7	HJT (1.5m), Insight-HXMT
+170912B	06:33:46	215.464	-61.997	19.6	24	Fermi (GBM)
+170912A	01:34:16	167.386	-54.343	21.9	11
+170906C	07:26:17	128.659	70.805	48.4	88	Konus-Wind
+170906B	00:55:46	232.221	-28.251	n/a	n/a	Fermi (GBM)
+170906A	00:43:11	203.949	-47.088	88.1	320	REM (60cm), Fermi (LAT & GBM), MASTER-OAFA, Astronaut CZTI, Konus-Wind, CGBM, Insight-HXMT
+170903A	12:49:07	254.532	34.985	29.2	24	Fermi (GBM)	0.886 (GTC: emission from host)	i-band (AB) = 23.17 (GTC)
+170827A	05:12:28	276.189	-40.202	94.0	14
+170823A	22:16:48	188.713	35.549	69.4	26
+170822A	09:11:51	94.375	55.000	64	64	BOOTES-5/JGT (60cm)
+170813A	01:13:16	201.057	-5.527	75.5	19	Fermi (GBM)
+170810A	22:01:41	187.928	3.664	152.4	48	MASTER II, Fermi (LAT & GBM), VLA @ 7.1 GHz
+170807A	21:56:09	143.434	-17.348	48.5	8.6
+170804A	12:01:37	6.404	-64.781	43.4	13
+170803A	17:30:27	174.947	-16.312	3.82	9.8	Fermi (GBM)
+170728B	23:03:19	238.019	70.111	47.7	6.2	TNG (3.6m), NOT (2.56m), Liverpool (2m), XMM-Newton, Fermi (LAT & GBM), OSN (1.5m), COATLI (50cm), MASTER II, BOOTES-2/TELMA (0.6m), Crni Vrh (60cm), VLA @ 6 GHz, Konus-Wind, Zeiss-1000 (TSHAO), Zeiss-1000 (SAO), Kottamia (1.88m)
+170728A	06:53:28	58.901	12.169	1.25	0.71
+170724A	00:48:44	150.057	-1.025	98.0	11	Konus-Wind
+170714A	12:25:32	34.322	1.962	n/a	28	GTC (10.4m), Chandra, ATCA @ 19 GHz	0.793 (GTC: emission from host)
+170711A	22:20:25	45.782	47.845	31.3	14	Fermi (GBM)
+170710B	08:10:06.251	43.122	42.679	54.4	24	Fermi (GBM)
+170710A	00:45:44	231.851	-38.523	32.6	7.4
+170705A	02:45:47	191.708	18.298	217.3	95	MASTER-OAFA, HJT (1.5m), Fermi (GBM), GTC (10.4m), Konus-Wind, ISON/Terskol (0.8m), Insight-HXMT, KAIT (0.76m), TShAO Zeiss-1000 (1m), Astrosat CZTI	2.010 (GTC: absorption)
+170629A	12:53:33	129.963	-46.585	34.4	26	Fermi (GBM)
+170626A	09:37:23	165.409	56.479	12.94	82	Fermi (GBM), SAO RAS (1m), OSN (1.5m), TNG (3.6m), MASTER II, OASDG (0.5m), Insight-HXMT, TShAO (1m), Konus-Wind
+170607A	23:21:33	7.358	9.225	n/a	75	NOT (2.5m), Fermi (GBM), MASTER-Tavrida, ISON/Terskol (0.8m), GTC (10.4m)	0.557 (GTC: emission)
+170604A	19:08:50	342.645	-15.406	26.70	51	iTelescope T27 (0.70m), GTC (10.4m), MPG (2.2m), AbAO AS-32 (0.7m), HJT (1.5m), Konus-Wind	1.329 (GTC: absorption)
+170531B	22:02:09	286.901	-16.414	164.13	20	MASTER-Kislovodsk, CrAO (Zeiss-1000), GTC (10.4m), MPG (2.2m), ISON/Terskol (0.8m), WHT (4.2m)	2.366 (GTC: absorption)|Consistent with GTC results (WHT)
+170531A	20:07:32	121.218	-14.017	26.74	7.5
+170526A	13:35:08	4.723	1.277	7.9	1.6
+170524B	10:40:40	90.864	-17.086	46.4	66	Konus-Wind
+170524A	19:49:15	319.488	48.603	0.10	0.37
+170519A	05:10:02	163.429	25.374	216.4	11	iTelescope T24 (0.61m), HJT (1.5m), LCO (1m), Weihai (1m), iTelescope T11 (0.51m), KAIT (0.76m), BOOTES-5/JGT (60cm), GTC (10.4m), NOT (2.5m), MITSuME (50cm), Watcher  (40cm), ISON/Multa (22cm), CrAO (AZT-11), Sayan Observatory (AZT-33IK), Zeiss-1000 (1m)	0.818 (GTC: absorption)
+170516A	12:49:20	41.543	-55.929	36.78	8.5
+170428A	09:13:42	330.051	26.913	0.20	2.8	Konus-Wind, MPG (2.2m), HJT (1.5m), DCT (4.3m), TNG (3.6m), DOT (3.6m)
+170419B	21:33:46	60.494	-15.121	77.2	19	Fermi (GBM)
+170419A	13:26:40	79.854	-21.433	8.18	3.1
+170405A	18:39:48	219.824	-25.236	164.7	37	Fermi (GBM & LAT), NOT, TAROT (18cm), GTC (10.4m), Watcher (40cm), ISON/Terskol (0.8m), Konus-Wind, HJT (1.5m), CTIO (1.3m)	3.510 (GTC: absorption)
+170331A	01:40:46	323.778	-24.406	17.57	9.7
+170330A	22:29:51	283.331	-13.458	144.73	56	AstroSat, Konus-Wind, CALET
+170325A	07:56:57.95	127.483	20.526	0.3	0.88	Fermi (GBM), AZT-33IK		BAT: the spacecraft was slewing at that time, there was no onboard triggers
+170318B	15:27:52	284.229	6.335	160.0	5.5	Fermi (GBM)
+170318A	12:11:56	305.662	28.408	133.7	37
+170317A	09:45:59	93.087	50.500	11.94	13	SANTEL-650 (0.65m), Xinglong (0.8m), GMG (2.4m), AZT-33IK, MITSuME (50cm), Faulkes North (2m), HJT (1.5m), POLAR, DOAO (1m)
+170311A	08:08:42	280.539	-30.041	6.32	2.5
+170307A	20:24:21	13.510	9.538	56.92	13	Fermi (GBM)
+170306A	07:06:12	263.087	-44.765	17.8	8.3	MPG (2.2m)
+170208B	22:33:38	127.145	-9.027	128.07	61	Konus-Wind, Fermi (GBM), WHT (4.2m)		MPG: possible host
+170208A	18:11:16	166.544	-46.786	7.45	15	Fermi (GBM), Konus-Wind, AstroSat (CZTI)
+170206B	21:57:25	271.784	11.175	13.36	3.2
+170205A	12:39:09	262.157	-0.058	26.1	38	LCO (2m), HJT (1.5m), NOT, Konus-Wind
+170203A	00:03:41	332.861	25.186	45.2	6.2
+170202A	18:28:02	152.526	5.021	46.2	33	Xinglong  TNT (0.8m), MASTER II, LCO (1m), Zadko (D=100cm), Kanata, NOT, GTC (10.4m), MITSuME (50cm), Xinglong (2.16m), VLT, T100 (1m), LCO FTN (2m), McDonald Observatory (2.1m), HJT (1.5m), VIRT (0.5m), Konus-Wind, CTIO (1.3m)	3.645 (GTC: absorption and emission)|3.65 (Xinglong: absorption)|3.645 (VLT: absorption and emission)
+170131A	23:15:13	341.447	64.006	n/a	n/a	Fermi (GBM), POLAR
+170127B	15:13:28	19.997	-30.340	0.51	1.0	Fermi (GBM)
+170127A	14:21:15	174.382	-45.827	62.26	5.2
+170126A	11:30:42	263.623	-64.755	9.5	28	Fermi (GBM), AstroSat CZTI, Konus-Wind
+170115A	20:50:08	332.145	13.750	48.0	4.7
+170113A	10:04:05	61.735	-71.933	20.66	6.7	LCO (1m), Fermi (GBM), MPG (2.2m), VLT	1.968 (VLT: absorption)
+170112A	02:02:00	15.232	-17.233	0.06	0.13
+170111A	00:33:28	20.688	-32.541	29.9	8.1
+170101A	02:26:01	267.089	11.642	2.43	60	POLAR, Lomonosov, Konus-Wind
+161224A	22:13:34.64	204.820	-18.028	47.04	8.2
+161220A	08:33:30	350.841	-47.480	6	1.7
+161219B	18:48:39	91.717	-26.801	6.94	15	MPG (2.2m), LCO (1m), Watcher (40cm), ISON/Terskol (0.8m), VLA @ 14.75 GHz, MITSuME (50cm), VLT, SALT, Konus-Wind, ALMA @ 97 GHz, MASTER II, POLAR, UKIRT (3.8m), GTC (10.4m), GMRT @ 1390 MHz, AZT-33IK, ZTSh, AS-32, Zeiss-1000, Chandra	0.1475 (VLT: absorption)|0.1475 (GTC: absorption)
+161218A	03:47:36	245.250	-4.113	7.1	67	POLAR, Konus-Wind, CALET
+161217A	01:27:34	150.658	52.344	18.2	1.9
+161214B	17:20:10	3.857	7.342	24.8	21	NOT, Chante-perdrix, TAROT (25cm), HJT (1.5m), AZT-33IK, AbAO (0.7m), ISON/Terskol (0.8m)
+161202A	23:12:52	356.904	19.652	n/a	86	Fermi (LAT), AstroSat, Konus-Wind
+161129A	07:11:39	316.221	32.137	35.53	36	AstroSat, MITSuME (50cm), Fermi (GBM), Tautenburg, Okayama, SANTEL-650 (0.65m), AZT-33IK, POLAR, NOT, GTC (10.4m)	0.645 (GTC: emission from host))	R ~ 21.2 (NOT)
+161117B	09:49:43	298.830	-67.681	152.51	60
+161117A	01:35:36	322.053	-29.612	125.7	200	VLT, La Silla (60cm), MASTER-OAFA, Fermi (GBM), Konus-Wind, CTIO (1.3m)	1.549 (VLT: absorption)
+161113A	17:30:26	179.794	-5.316	42.60	15
+161108A	03:32:33	180.776	24.905	105.1	11	NOT, HJT (1.5m), TSHAO (1m)	1.159 (NOT: absorption & emission)	NOT
+161105A	04:53:02	120.198	-44.763	177.3	61
+161104A	09:42:26	77.906	-51.447	0.1	0.31
+161022A	02:43:40	128.988	54.366	7.3	7.5	Fermi (GBM)
+161017A	17:51:51	142.770	43.125	216.3	53	MASTER II, Fermi (GBM), GTC (10.4), TNG (3.6m), LCOGT (1m), MITSuME (50cm), Lomonosov BDRG, MASTER, SARA-RM (1.0m), Liverpool (2m), NOEMA @ 93 and 133 GHz, Konus-Wind	2.0127 (GTC: absorption)|2.01 (TNG: absorption)
+161014A	12:31:22	332.626	7.467	18.3	19	MITSuME (50cm), Faulks South (2m), Xinglong (0.8m), Kanata, TSHAO (1m), GTC (10.4m), NOT (2.56m), TNG (3.6m), Fermi (GBM), HJT (1.5m), Konus-Wind, VLT	2.823 (GTC: absorption)|2.823 (VLT: absorption)
+161011A	05:54:54	245.687	8.313	4.3	2.3	TSHAO (1m)
+161007A	21:25:43	103.408	23.289	201.7	13			i' (Vega)=22.23 (GTC)
+161004B	23:07:59	112.156	-39.896	15.9	88	AstroSat CZTI, Fermi (GBM), CALET, Konus-Wind
+161004A	12:58:28	263.127	-0.947	~1.3 to ~3	0.95	Zeiss-1000 (1m), Maidanak (AZT-22)
+161001A	01:05:16	71.923	-57.261	2.6	6.7	Fermi (GBM), MPG (2.2m), Konus-Wind
+160927A	18:04:49	256.268	17.334	0.48	n/a1.5	RTT150 (1.5m), TNG (3.6m), MPG (2.2m), NOT (2.56m), Magellan/Baade (6.5m), CALET, GTC (10.4m)
+160917A	11:30:19	295.652	46.400	16	13	Sayan (AZT-33IK), Fermi (GBM), CZTI, Lomonosov BDRG
+160912A	16:07:43	301.595	57.585	n/a	37	Fermi (GBM), Liverpool (2m), Sayan (AZT-33IK), HJT (1.5m)
+160905A	11:18:58	162.249	-50.803	64	150	Fermi (GBM & LAT), Konus-Wind
+160827A	15:46:45	179.274	-29.178	13.3	4.0
+160826A	06:12:38	183.120	-67.664	52.6	4.9
+160824A	23:22:25	80.087	40.039	99.3	26
+160821B	22:29:13	280.005	62.387	0.48	1.0	NOT (2.56m), Fermi (GBM), WHT, GTC (10.4m), VLA @ 5.0 GHz, HST
+160821A	20:34:30	171.254	42.345	n/a	72	Fermi (LAT & GBM), TAROT (25cm), Konus-Wind, CALET, Astronaut CZTI, Maisoncelles (30cm)
+160815A	11:45:11	288.616	84.298	8.6	14	Fermi (GBM), CALET
+160804A	01:32:47	221.652	10.002	144.2	114	MASTER-SAAO, Fermi (GBM), TNG, SAO RAS (6m), VLT, MPG (2.2m), SANTEL-650 (0.65m), Zeiss-1000 (1m), HJT (1.5m), AMI @ 15 GHz	0.736 (VLT: absorption & emission)	possible host: MASTER-SAAO, TNG
+160801A	09:28:30	212.763	13.485	2.85	1.7
+160726A	01:34:07	98.809	-6.617	0.7	2.6	Fermi (GBM), Konus-Wind
+160716A	01:08:30	190.502	-61.364	6.39	1.8
+160714A	02:19:15	234.490	63.809	0.35	0.69	Fermi (GBM)
+160712A	19:53:36	304.166	-26.965	n/a	26	Konus-Wind
+160709A	19:49:03.464	235.996	-28.188	4.8	4.5	Fermi (LAT & GBM), Konus-Wind, CALET, Astrosat
+160705B	21:02:07	168.107	46.707	54.4	7.3	Liverpool (2m), HJT (1.5m)
+160703A	12:10:05	287.414	36.913	44.4	90	Konus-Wind, MITSuME (50cm), Murikabushi (1m), Keck-I (10m), Astrosat, GMRT @ 1460 MHz	The detection in all UVOT filters is consistent with a redshift of z < ~1.5
+160630A	04:04:09	198.238	-56.029	29.50	12	MPG (2.2m), REM (60cm), PROMPT (16", 24")
+160625A	22:40:31	176.939	-65.142	53.9	33
+160624A	11:27:01	330.210	29.667	0.2	0.40	Fermi (GBM)	0.483 (Gemini-North: emission, possible host)	r' band (Gemini-North, possible host)
+160612A	20:12:48	348.364	-25.375	n/a	1.16	Fermi (GBM), IPN, Konus-Wind
+160611A	21:40:34	164.417	-70.396	34.1	17
+160607A	11:14:00	13.661	-4.952	33.4	210	NOT, Konus-Wind, MPG (2.2m), CALET GBM
+160601A	14:43:02	234.923	64.532	0.12	0.66	NOT, AZT-33IK, GTC, Gemini-North (8m), AbAO (0.7m)
+160525B	09:25:07	149.438	51.197	0.29	0.32
+160525A	01:33:59	103.575	-0.199	n/a	1.9
+160519A	00:17:33	71.122	31.246	35.57	12	Fermi (GBM)
+160506A	03:29:15	265.857	-46.127	254.5	15
+160504A	19:30:37	170.073	56.002	53.9	7.3
+160501A	00:40:31	286.389	-17.249	118	9.5
+160425A	23:26:11	280.339	-54.343	304.58	21	MASTER II, MPG (2.2m), VLT, MASTER-SAAO, Skynet PROMPT	0.555 (VLT: emission)	I~20.1 (CTIO)
+160424A	11:49:07	319.482	-60.408	6.3	12	Fermi (GBM), Konus-Wind
+160419A	15:16:37	16.418	-27.341	8.8	35	CALET
+160417A	04:23:41	120.260	7.646	15	5.9	KAIT (0.76m), iTelescope T11 (0.50m), GMG (2.4m)
+160412A	04:23:54	33.074	-67.636	31.6	19
+160411A	01:28:51	349.370	-40.258	0.36	0.80	Fermi (GBM), Gemini-South
+160410A	05:09:48	150.695	3.461	8.2	7.8	MPG (2.2m), VLT, PROMPT, Keck-I, GMG (2.4m), TAROT (25cm), Konus-Wind, NOT	1.717 (VLT: absorption)|1.72 (Keck-I: absorption)
+160409A	05:54:14	289.705	-5.390	n/a	n/a	Konus-Wind
+160408A	06:25:43	122.561	71.128	0.32	1.6	Fermi (GBM), Gemini-North, CALET
+160327A	09:16:07	146.698	54.018	28	14	HJT (1.5m), KAIT (0.76m), GTC (10.4m)	4.99 (GTC: absorption, probably redshift)
+160325A	07:00:03	15.697	-72.702	64.9	71	REM (60cm), Fermi (GBM & LAT), Konus-Wind
+160321A	15:55:27	99.420	5.753	33.6	5.3	HJT (1.5m)
+160314A	11:32:51	112.766	17.024	8.73	2.8	NOT, VLT, AZT-33IK, HJT (1.5m), MPG (2.2m)	0.726 (VLT: emission from host)
+160313A	02:37:15	183.821	57.278	42.6	5.8
+160303A	10:54:42	168.710	22.710	5.0	1.5	HJT (1.5m), NOT (2.5m), McDonald (2.1m), BOAO (1.8m), VLT, OSN (1.5m), MPG (2.2m), MMT (6.5m)	<2.3 (VLT, redshift limit)	r=25.8 (possible host)
+160228A	17:34:32	107.311	26.946	98.36	20	MPG (2.2m)
+160227A	19:32:08	195.034	78.672	316.5	31	MASTER II, Mt. Terskol (Zeiss-600), ISON-Kislovodsk (0.5m), MAXI (GSC), NOT (2.5m), McDonald (0.8m), Mt. Lemmon (1.0m)	2.38 (NOT: absorption)
+160225A	14:20:56	164.217	53.659	157	16	MITSuME (50cm), WHT (4.2m), NOT (2.56m), TNT (80cm), HJT (1.5m), TSHAO (Zeiss-1000)
+160223A	01:44:25	147.603	9.369	127	50	MPG (2.2m), Fermi (GBM), HJT (1.5m)
+160220B	11:10:53	259.851	-18.123	31.4	70	Konus-Wind
+160220A	01:25:25	236.942	-18.539	8.3	5.2	Fermi (GBM)
+160216A	19:10:31	311.679	-71.550	11.0	20	Konus-Wind
+160203A	02:13:10	161.967	-24.772	20.2	12	MPG (2.2m), Cerro Tololo (1m), VLT, PROMPT-CTIO, HJT (1.5m), Zeiss-1000, Zadko (100cm)	3.52 (VLT: absorption)
+160131A	08:20:31	78.170	-7.037	325	204	MASTER II, Faulkes North (2m), TNT (0.8m), WFT (60cm), HJT (1.5m), LCOGT (1m), TNG (3.6m), Khureltogot (ORI-40), Bassano Bresciano Observatory, GTC (10.4m), MPG (2.2m), Murikabushi (1m), Xinglong (2.16m), Sayan Observatory, Abastumani Observatory (0.7m), Sierra Nevada Observatory (1.5m), Konus-Wind, NOEMA @ 93 and 150 GHz, VLA @ 21.8 GHz, AZT-33IK, Zeiss-1000, Astrosat CZTI	0.97 (TNG: absorption)|0.972 (GTC: absorption)|0.97 (Xinglong: absorption)
+160127A	08:43:07	225.966	0.080	6.16	3.3	TAROT (25cm), HJT (1.5m), VLA @ 21.8 GHz, Khureltogot (ORI-40)
+160123A	08:58:20	150.277	-33.790	3.95	3.5
+160121A	13:50:37	109.080	-23.590	12.0	6.1	MOA-II (1.8m), Zeiss-1000 (1m), MPG (2.2m), HJT (1.5m), GTC (10.4m)	1.960 (GTC: absorption)
+160119A	03:06:08	211.916	20.453	116	71	NOT, GTC, HJT (1.5m), MPG (2.2m), VLA @ 21.8 GHz, Konus-Wind
+160117B	13:59:27	132.190	-16.340	n/a	n/a	MASTER II, LCOGT (1m), NOT, iTelescope (T17, 0.43m), VLT, MPG (2.2m), HJT (1.5m), VLA @ 21.8 GHz, TNG	0.870 (VLT: absorption)| 0.86 (TNG: absorption and emission)
+160117A	10:13:39	20.367	-0.677	118.58	31
+160104A	11:24:10	76.808	11.334	16.2	4.0	Faulkes North (2m), MITSuME (50cm), MASTER, Xinglong (0.8m), Fermi (GBM), GTC (10.4m), Nayuta (2m), ISON-Ussuriysk (0.65m)
+151229A	06:50:27	329.363	-20.732	1.78	5.9	Fermi (GBM)
+151228B	22:47:14	344.431	8.081	48.0	24	Fermi (GBM)
+151228A	03:05:12	214.017	-17.665	0.27	0.84	Fermi (GBM)
+151215A	03:01:28	93.622	35.529	17.8	3.1	Palomar (60"), MPG (2.2m), NOT, MASTER II, La Palma (pt5m), Zeiss-1000 (1m), TAROT (25cm)	2.59 (NOT: absorption)
+151210A	03:12:56	65.080	-71.225	94.9	13	LCOGT (1m), MPG (2.2m)
+151205B	21:43:14	41.190	-43.461	1.4	0.77
+151205A	15:46:00	229.291	35.767	62.8	14	Fermi (GBM)
+151127A	09:08:49	19.664	-82.762	0.19	0.23
+151122A	17:00:40	299.704	-19.899	n/a	n/a	Fermi (GBM)
+151118A	03:06:30	57.169	65.889	23.4	4.5
+151114A	09:59:34	120.947	-61.033	4.86	3.7	Faulkes South (2m), MPG (2.2m)
+151112A	13:44:48	2.050	-61.680	19.32	9.4	MPG (2.2m), MAXI	4.1 (MPG: photometric)
+151111A	08:33:23	56.850	-44.154	76.93	17	Faulkes  South (2m), Fermi (GBM), MPG (2.2m)	3.5 (MPG: photometric)
+151107A	17:19:36	217.139	-59.680	n/a	n/a
+151031A	05:50:30	83.189	-39.125	5.00	3.2	VLT, MPG (2.2m)	1.167 (VLT: absorption)
+151029A	07:49:39	38.537	-35.356	8.95	3.9	MPG (2.2m), VLT, Faulkes North (2m), FRAM (0.3m)	1.423 (VLT: absorption)
+151027B	22:40:40	76.188	-6.428	80.00	15	NOT, VLT, MPG (2.2m), MASTER II, HJT (1.5m), Faulkes North (2m), ATCA @ 9 GHz	4.063 (VLT: absorption)
+151027A	03:58:24	272.498	61.361	129.69	78	KAIT (0.76m), ISON-NM (0.4m), Palomar (60"), Weihai (1m), MITSuME (50cm), Fermi (GBM), GMG (2.4m), RAPTOR, THO (16"), VLA @ 21.8 GHz, LCOGT-McDonald (1m), Xinglong  (0.8m), Konus-Wind, TUBITAK T100 (1m), NOT, Zeiss-1000 (1m), MAXI, Nikolaev (0.5m), Wiggins (0.35m), Mt. Terskol (Zeiss-600), Sayan (AZT-33IK), Hankasalmi (0.4m), GMRT @ 1390 MHz and 610 MHz, Himalayan Chandra Telescope (2m), Maidanak (AZT-22)	0.38 (XRT: tentative)|0.81 (Keck: absorption)|0.81 (GMG: absorption)
+151023A	13:43:04	271.012	-8.289	10.66	2.6
+151022A	14:06:32	349.223	55.812	116.7	11
+151021A	01:29:12	337.647	-33.189	110.2	280	VLT, MASTER II, Konus-Wind, PROMPT (16")	2.330 (VLT: absorption)
+151006A	09:55:01	147.426	70.508	203.9	69	Fermi (GBM & LAT), Konus-Wind, Astrosat, CALET
+151004A	18:09:04	213.613	-64.956	128.40	10
+151001B	18:29:36	336.974	64.637	109	14	Konus-Wind
+151001A	15:04:22	233.722	10.984	8.94	6.7	Fermi (GBM), NOT (2.5m), HJT (1.5m)
+150925A	04:09:28	227.538	-19.640	121	14
+150915A	21:18:24	319.675	-34.874	164.7	8.0	MPG (2.2m), VLT, NOT	1.968 (VLT: absorption)
+150911A	18:40:21	67.428	5.731	7.2	21	Konus-Wind
+150910A	09:04:48	5.677	33.466	112.2	48	KAIT (0.76m), Faulkes North (2m), MITSuME (50cm), Nanshan (1m), Lick (3m), GTC (10.4), Zeiss-1000 (SAO RAS), Murikabushi (1m), MPG (2.2m), Okayama Astrophysical Observatory (0.91m), NOT (2.5m), Zeiss-1000 (Tien Shan), VLA @ 9.8 GHz, Chuguev Observatory (0.7m), AS-32 (0.7m), Palomar (60"), Murikabushi (1m), HJT (1.5m), Zeiss-600 (Mt. Terskol), T100 (1m), Zeiss-2000 (Mt. Terskol), AS-32 (0.7m), CrAO Observatory	1.359 (Lick: absorption)|1.360 (GTC: absorption)
+150907B	23:26:27	255.265	-63.798	62.0	11
+150901A	15:26:35	183.609	25.076	64.0	4.5
+150831B	22:19:27	271.030	-27.243	6.2	14	Fermi (GBM)
+150831A	10:34:12	221.034	-25.619	1.15	3.8	INTEGRAL, Konus-Wind
+150821A	09:44:00	341.913	-57.883	172.1	7.9	VLT, Fermi (GBM), MPG (2.2m), Siding Springs (1m), Konus-Wind	0.755 (VLT: absorption)
+150819A	00:50:08	42.340	9.787	52.1	4.8
+150818A	11:36:32	230.340	68.342	123.3	41	NOT, AZT-33IK, Konus-Wind, GTC (10.4m), Zeiss-1000	0.282 (GTC: emission from possible host)
+150817A	02:05:13	249.635	-12.050	38.8	59	HJT (1.5m), Fermi (GBM), Palomar (60")
+150811A	04:06:09	291.347	-15.434	34.00	4.9	HJT (1.5m), KAIT (0.76m), McDonald (1m), Palomar (60"), Zeiss-1000 (1m), VLA @ 21.8 GHz
+150801B	22:41:48	82.961	-5.374	426	31
+150728A	12:51:11	292.271	33.906	0.83	0.33
+150727A	19:02:02	203.968	-18.320	88	37	VLT, Fermi (GBM), HJT (1.5m), IRSF (1.4m)	0.313 (VLT: emission)
+150724A	05:46:35	97.549	-19.147	280	22	HST		r(AB)=26.8, J(AB)=26.1 and H(AB)=25.7 (HST)
+150722A	09:57:53	218.297	-35.196	67	6.1
+150720A	14:02:09	119.577	-28.281	151	5.6
+150716A	07:06:43	278.481	-12.978	44	15
+150711A	18:23:03	221.624	-35.464	64.2	43	Fermi (GBM)
+150710B	08:05:35	83.191	-46.960	15	3.5	Konus-Wind
+150710A	00:28:02	194.484	14.309	0.15	0.71	Konus-Wind
+150626B	20:22:52	187.627	66.794	48.0	10	AMI @ 16 GHz
+150626A	02:12:49	111.353	-37.803	144	18
+150616A	22:49:19	314.713	-53.403	599.5	190
+150615A	04:42:27	107.554	-22.466	27.6	5.5
+150607A	07:55:09	140.015	68.436	26.3	23	Fermi (GBM), NOT, Konus-Wind, DCT (4.3m), AS-32 (0.7m)
+150530B	13:28:38	7.496	44.290	n/a	1.25
+150530A	11:42:18	327.511	57.519	6.62	18	Fermi (GBM), Konus-Wind
+150527A	06:48:55	288.962	4.195	112	31	Fermi (GBM), REM (60cm), Konus-Wind
+150513A	20:31:19	49.044	-22.868	162	54	Fermi (LAT & GBM)
+150430A	00:21:28	326.481	-27.919	107.1	69	MAXI/GSC, Fermi (GBM), Konus-Wind
+150428B	03:12:03	292.661	4.114	130.9	37
+150428A	01:30:40	188.539	6.967	53.2	63	La Silla (1.56m), Konus-Wind
+150424A	07:42:57	152.305	-26.646	91	15	Keck I (10m), Konus-Wind, NOT, MPG (2.2m), GTC (10.4), HJT (1.5m), VLA @ 9.8 GHz	<3 (GTC)
+150423A	06:28:04	221.601	12.264	0.22	0.63	MPG (2.2m), Keck I (10m), HJT (1.5m), VLT, UKIRT (3.8m)	1.394 (VLT: absorption, tentative)
+150413A	13:54:58	190.396	71.839	263.6	43	MASTER II, MAXI, Khureltogot (ORI-40), Nanshan (1m), Tautenburg (1.34m), Palomar (60"), CAHA (2.2m), University of Athens (0.40m), iTelescope (0.43m & 0.32m), Capannori (0.60m), Virtual Telescope (17"), GMG (2.4m), Asiago (1.8m), Mt. Lemmon (1m), MITSuME (50cm), RTT150 (1.5m), AZT-11, AMI @ 15 GHz, Bassano Bresciano Observatory, SANTEL-650	3.2 (CAHA: absorption)|3.139 (Asiago: absorption)
+150407A	00:31:10	216.603	38.541	n/a	n/a
+150403A	21:54:16	311.505	-62.706	40.90	170	Fermi (LAT & GBM), VLT, Konus-Wind, MASTER II	2.06 (VLT: absorption)
+150402A	00:37:46	173.658	40.992	14	n/a
+150323C	17:05:21	192.625	50.165	159.4	13	Nanshan (1m), Fermi (GBM), TNT (0.8m), HJT (1.5m), Konus-Wind, Konkoly Observatory, MITSuME (50cm), Khureltogot, AZT-33IK, Nayuta (2m)		r=23.6 (NOT: possible host)
+150323B	09:28:38	260.447	38.316	~60	n/a	Fermi (GBM), Konus-Wind
+150323A	02:49:14	128.173	45.442	149.6	61	Palomar (60"), HJT (1.5m), Keck I (10m), KAIT (0.76m), Konus-Wind, Konkoly Observatory	0.593 (Keck I: absorption and emission)
+150318A	07:04:53	324.990	-61.461	83.88	25
+150317A	04:22:42	138.995	55.477	23.29	6.5	HJT (1.5m)		i=22.75 (NOT)
+150314A	04:55:16	126.661	63.839	14.79	220	KAIT (0.76m), Fermi (LAT & GBM), Yerkes Observatory  (41"), NOT (2.56m), GTC (10.4m), Palomar (60"), Konus-Wind, RAPTOR, VLA @ 5 GHz	1.758 (GTC: absorption)
+150309A	23:03:06	277.004	86.417	242	170	Fermi (GBM), Konus-Wind
+150302A	05:42:36	175.515	36.852	23.74	2.6	NOT (2.5m)
+150301B	19:38:04	89.159	-57.969	12.44	18	MASTER II, MPG (2.2m), VLT, Fermi (GBM), Las Cumbres Observatory (1m)	1.5169 (VLT: absorption)
+150301A	01:04:28	244.281	-48.732	0.48	0.74	Fermi (GBM)
+150222A	16:56:40	198.787	-12.151	15.90	22
+150213B	22:31:30	253.448	34.165	181	30	Tautenburg (1.34m), NOT, Abastumani Observatory (0.7m). HJT (1.5m), Palomar (60")
+150212A	10:57:19	285.497	47.389	11.4	8.9
+150211A	11:52:11	254.846	55.390	13.6	n/a	Konus-Wind
+150206A	14:30:02	10.076	-63.181	83.2	139	MAXI, MPG (2.2m), VLT, Konus-Wind	2.087 (VLT: absorption)
+150204A	06:31:08	160.241	-64.043	12	8.0	Fermi (GBM)
+150203A	04:09:07	98.394	6.952	25.8	9.1	Fermi (GBM)
+150202A	23:10:02	39.261	-33.132	25.7	6.1
+150201A	13:46:59	11.820	-37.620	26.1	7.8	Fermi (GBM), Konus-Wind
+150120B	07:21:55	39.309	8.064	24.30	5.4	Palomar (60"), Faulkes North (2m), MPG (2.2m), ARIES Nainital (1.04m), TNT (0.8m), HJT (1.5m), Khureltogot (ORI-40), GMG (2.4m), AZT-33IK
+150120A	02:57:46	10.330	33.980	1.20	1.4	Fermi (GBM)	0.460 (Gemini-North: emission, possible host)
+150110B	22:08:30	289.374	32.529	10.6	4.9	Fermi (GBM), AMI @ 15 GHz
+150103A	20:02:18	131.674	-48.896	49.1	8.2
+150101B	15:23:00	188.044	-10.956	0.018	0.23	Fermi (GBM), GTC (10.4m), XMM-Newton, Gemini-South, INTEGRAL	0.093 (GTC: emission from host)
+150101A	06:28:53	312.599	36.669	0.060	0.23	Fermi (GBM)
+141229A	11:49:02	n/a	n/a	7	15	MAXI
+141225A	23:01:07	138.754	33.774	40.24	25	CAHA (1.23m), Liverpool (2m), NOT, GCT (10.4m), Nanshan (36cm), MASTER-SAAO, T60 (0.60m), Fermi (GBM), TAROT (25cm), MPG (2.2m)	0.915 (GTC: absorption)
+141221A	08:07:10	198.283	8.197	36.9	21	REM (60cm), LCOGT-McDonald (1m), PROMPT (14"), MPG (2.2m), Fermi (GBM), TAROT (25cm), Keck II	1.452 (Keck II: absorption, tentative)
+141220A	06:02:52	195.058	32.146	7.21	26	CAHA (1.23m), GTC (10.4m), Liverpool (2m), Fermi (GBM), Konus-Wind	1.3195 (GTC: absorption)
+141212B	13:23:48	250.866	31.749	10.5	12	Konus-Wind
+141212A	12:14:01	39.167	18.163	0.30	0.72		0.596 (Gemini-North: emission from likely host)	i=22.2, Gemini-North
+141205A	08:05:17	92.859	37.876	1.1	1.2	Fermi (GBM)
+141130A	23:10:56	222.804	47.323	62.9	28	AZT-33IK, Nanshan (1m), Nanshan (36cm), Konus-Wind
+141121A	03:50:43	122.665	22.206	549.9	53	MAXI/GSC, MPG (2.2m), Keck I (10m), LCO-FTN (2m), HJT (1.5m), MITSuME (50cm), AS-32 (0.7m), Murikabushi (1m), AZT-33IK, AMI @ 15 GHz, Zeiss-1000 (1m), WSRT @ 4.9 GHz, Konus-Wind, AZT-33IK, ORI-40, VLA @ 14 GHz, DCT (4.3m)	1.47 (Keck I: absorption)
+141109B	07:47:39	222.453	73.141	54.2	6.3
+141109A	05:49:55	144.563	-0.581	200	68	REM (60cm), VLT, MPG (2.2m), McDonald Observatory (2.1m), TNT (0.8m), Konus-Wind, NOT (2.5m), Zeiss-2000, Abastumani Observatory (0.7m), TAROT (25cm), VLA @ 21.8 GHz	2.993 (VLT: absorption)
+141102A	12:51:40	208.614	-47.100	2.5	n/a	Fermi (GBM & LAT), Konus-Wind
+141031B	14:56:45	356.883	41.355	16.0	2.5
+141031A	07:18:26	128.632	-59.160	920	29	Fermi (GBM)
+141026A	02:36:51	44.049	26.925	146	13	HJT (1.5m), MPG (2.2m), CAHA (1.23m), Hale (5m), Zeiss-1000 (1m), GTC (10.4m), VLA @ 21.8 GHz & 6.2 GHz, Gemini-North (8m), ZTSh	3.35 (GTC: absorption, possible redshift)
+141022A	01:27:42	241.930	-72.152	8.72	4.8	MPG (2.2m), Fermi (GBM)
+141020A	07:48:39	225.054	55.328	15.55	4.6	AZT-33IK
+141017A	18:25:28	93.601	-58.596	55.7	31	Zadko (100cm), MPG (2.2m), Konus-Wind
+141015A	09:12:59	87.535	18.370	11.0	1.6
+141005A	05:13:06	291.103	36.098	4.34	11	Palomar (60"), HJT (1.5), Fermi (GBM), Konus-Wind, MPG (2.2m)
+141004A	23:20:54	76.721	12.828	3.92	6.7	INTEGRAL, CAHA (1.23m), TNG (3.6m), Monte Agliale Observatory (0.5m), HJT (1.5m), NOT (2.5m), MPG (2.2m), Fermi (GBM), GTC (10.4m)	0.57 (NOT: emission)|0.573 (GTC: emission)
+140930B	19:41:42	6.360	24.298	0.84	4.2	WHT, MMT (6.5m), Keck I (10m), Konus-Wind, MPG (2.2m), Gemini South (8m), MASTER II
+140927A	05:15:11	291.802	-65.400	6.26	2.7
+140919A	15:15:15	221.540	-32.153	151.3	59	Fermi (GBM), MPG (2.2m)
+140916A	10:43:47	40.384	-39.688	80.1	17
+140909A	06:56:51	193.638	63.494	n/a	n/a
+140907A	16:07:08	48.133	46.596	79.2	43	Nanshan (35cm & 1m), Virtual Telescope (17"), MITSuME (50cm), Murikabushi (1m), GTC (10.4m), Fermi (GBM), T100 (1.0m), DCT (4.3m), Nayuta (2m), MASTER II, Zeiss-1000, CAHA (1.23m), AZT-33IK	1.21 (GTC)
+140903A	15:00:30	238.021	27.608	0.30	1.4	DCT (4.3m), Palomar (60"), VLA @ 6 GHz, Faulkes North (2m), NOT (2.5m), Gemini-North, Chandra, GMRT @ 1390 MHz	0.351 (Gemini-North: absorption, tentative host redshift)
+140901B	06:17:24	112.184	-29.209	10	9.5	Fermi (GBM)
+140828A	06:54:14	142.029	14.569	18.8	13	Fermi (GBM)
+140824A	08:40:28	206.627	33.285	3.09	1.9
+140818B	18:44:16	271.168	-1.354	18.1	5.4	OSN (1.5m), MPG (2.2m), Fermi (GBM), Tautenburg (1.34m)
+140817A	07:02:01	127.244	58.191	244	46	Fermi (GBM), Konus-Wind
+140730A	19:43:51	56.350	-66.580	41.3	2.8
+140719B	20:49:35.68	39.731	-2.384	53.0	13
+140719A	05:53:55.2	171.571	-50.115	48	4.3
+140716A	10:27:57.3	108.133	-60.150	104	59	MPG  (2.2m), Fermi (GBM), Konus-Wind
+140713A	18:43:45	281.141	59.623	5.30	3.7	Fermi (GBM), CARMA @ 85 GHz, AMI @ 15 GHz		potential host, m_AB~24 (GTC)
+140710A	10:16:40	41.088	35.499	3.52	2.3	MPG (2.2m), Palomar (60"), HJT (1.5m)	0.558 (Gemini-North: emission, host)
+140709B	15:15:45	146.040	63.536	155.0	42	Fermi (GBM)
+140709A	01:13:41	304.666	51.222	98.6	53	OSN (1.5m), Fermi (GBM), Virtual Telescope (17"), GTC (10.4m), HJT (1.5m), AMI @ 15 GHz
+140706A	19:33:33	49.269	-38.058	48.3	20	MPG (2.2m), Fermi (GBM)
+140703A	00:37:17	13.010	45.102	67.1	39	BOOTES-2 (0.6m), OSN (1.5m), GTC (10.4m), Monte Agliale Observatory (0.5m), Fermi (GBM), HJT (1.5m), Palomar (60"), CARMA @ ~93 GHz, VLA @ 19 GHz, Abastumani Observatory (0.7m), AMI @ 15 GHz	3.14 (GTC: absorption)
+140629A	14:17:30	249.017	41.897	42.0	24	MASTER II, TNT (0.8m), RTT150 (1.5m), Virtual Telescope (14"), Kiso Observatory, NOT, T100 (1.0m), Kanata (1.5m), Murikabushi (1m), BTA (6m), Palomar (60"), VATT, TNG (3.6m), Konus-Wind, Nayuta (2m), Zeiss-1000 (1m), MITSuME (50cm), ARIES Nainital (1.04m)	2.275 (BTA: absorption)|2.29 (TNG: absorption)
+140628A	13:35:37	40.672	-0.378	10.5	13	MPG (2.2m)
+140626A	00:33:01	77.163	-82.625	16.4	3.6	MPG (2.2m)
+140622A	09:36:04	317.153	-14.412	0.13	0.27		~0.959 (VLT: emission from host)
+140619A	11:38:35	27.096	-39.249	233.9	210
+140614C	20:06:56	147.423	71.945	n/a	1.6
+140614B	06:38:11	322.636	14.895	49.8	5.5
+140614A	01:04:59	231.171	-79.110	720	13	MPG (2.2m), VLT	4.233 (VLT: absorption)
+140611A	03:51:04	349.939	-40.111	1.9	n/a
+140610A	16:31:29	286.261	3.899	n/a	n/a	Konus-Wind, Fermi (GBM)
+140607A	17:13:31	86.373	18.904	109.9	22
+140606A	10:58:13	201.799	37.599	0.34	0.51
+140529A	09:28:06	228.810	-41.042	4.5	22	Konus-Wind
+140521A	17:34:18	320.177	67.587	9.88	9.5
+140518A	09:17:46	227.231	42.396	60.5	10	KAIT (0.76m), Palomar (60"), Gemini-North (8m), HJT (1.5m), GORT (14")	4.707 (Gemini-North: absorption)
+140516A	20:30:54	252.972	39.958	0.19	0.23
+140515A	09:12:36	186.071	15.099	23.4	5.9	Gemini-North, NOT (2.5m), GTC (10.4m), MPG (2.2m), TNG  (3.6m), VLA @ 21.8 GHz	6.32 (Gemini-North: absorption)
+140512A	19:31:49	289.366	-15.087	154.8	140	MASTER II, AZT-33IK, NOT (2.5m), MPG (2.2m), TNT (0.8m), Fermi (GBM), Konus-Wind	0.725 (NOT: absorption)
+140509A	02:22:13	46.564	-62.662	23.20	12	MPG (2.2m)
+140506A	21:07:36	276.806	-55.556	111.1	28	VLT, Fermi (GBM), Konus-Wind	0.889 (VLT: absorption, host)
+140502A	08:30:20	319.172	48.975	16.9	6.7	Fermi (GBM)
+140430A	20:33:36	102.942	23.033	173.6	11	Liverpool (2m), NOT, VLT, VATT (1.8m), IAC80 (0.82m), STELLA-I	1.60 (VLT: absorption)
+140428A	22:40:50	194.365	28.331	17.42	3.4	Keck I (10m), OSN (1.5m), MPG (2.2m)	~4.7 (Keck I: estimate)
+140423A	08:31:53	197.276	49.838	134	94	ISON-NM (0.4m), WIYN (3.5m), ROTSE-IIIb, Gemini-North, Kiso Observatory (1.05m), Fermi (GBM), Palomar (60"), KAIT (0.76m), MITSuME (50cm), Kanata Telescope (1.5m), Devasthal (1.3m), TNG (3.6m), Nayuta (2m), NOT (2.5m), HJT (1.5m), MPG (2.2m), RTT150, Konus-Wind, AZT-33IK, Himalayan Chandra Telescope (2m), TShAO (1m)	3.26 (Gemini-North: absorption)
+140419A	04:06:51	127.001	46.234	94.7	160	KAIT (0.76m), ROTSE-IIIb, HJT (1.5m), CARMA @ 93 GHz, Gemini-North, iTelescope (T24), Palomar (60"), MITSuME (50cm), Murikabushi (1m), ARIES Nainital (1.04m), Konus-Wind, NOT, Sayan Observatory (AZT-33IK), Mt. Lemmon (1m)	3.956 (Gemini-North: absorption)
+140414A	06:06:29	195.310	56.902	0.7	1.22
+140413A	00:09:40	65.439	-51.188	139.6	94	Konus-Wind
+140412A	22:20:49	145.032	-65.826	39.6	7.2
+140408A	13:15:54	290.723	-12.585	4.00	3.1	Fermi (GBM)
+140402A	00:10:06	207.592	5.971	0.031	0.38
+140331A	05:49:48	134.860	2.755	209	6.7
+140323A	10:23:11	356.975	-79.916	104.9	160	Fermi (GBM & LAT), Konus-Wind, Suzaku
+140320A	02:12:45	281.843	-11.188	0.45	0.49	Fermi (GBM)
+140318A	00:09:07	184.049	20.225	8.43	2.9	NOT (2.5m), WHT, DCT (4.3m), HJT (1.5m), Liverpool (2m)	1.02 (WHT: emission)
+140311B	21:14:29	252.333	52.733	70	n/a	Nanshan (1m), MASTER-II, Fermi (GBM)
+140311A	21:05:16	209.293	0.607	71.4	23	Nanshan (1m), Zadko (100cm), NOT, Kottamia (188cm), Gemini-South, Gemini-North, HJT (1.5m), VLA @ 21.8 GHz	4.95 (Gemini-South: absorption)|~ 5 (NOT: absorption)|4.954 (Gemini-North)
+140305A	15:00:20	344.497	15.448	13.7	4.7
+140304A	13:22:31	30.653	33.480	15.6	12	MASTER II, Nanshan (1m), Mondy (AZT-33IK), Khureltogot (ORI-40), NOT, GTC (10.4m), Fermi (GBM), HJT (1.5m), VLA @ 6 GHz, CARMA @ 3mm, Suzaku	5.283 (GTC: absorption)| 5.28 (NOT: absorption)
+140302A	08:12:58	253.862	-12.875	87.5	27	MPG (2.2m), Fermi (GBM)
+140301A	15:24:49	69.521	-34.249	31.0	4.4	NOT, VLT, MPG/ESO (2.2m), Zadko (100cm)	1.416 (VLT: absorption)
+140215A	04:07:10	104.129	41.787	84.2	78	Discovery Channel Telescope (4.3m), KAIT (0.76m), PROMPT, HJT (1.5m), iTelescope (T24), Palomar (60"), ISON-NM (0.4m), MITSuME (50cm), Konus-Wind, RAPTOR
+140213A	19:21:37	105.166	-73.136	60.0	120	Perth Observatory (14"), MPG (2.2m), VLT, Fermi (GBM), Konus-Wind, Skynet R-COP/PROMPT	1.2076 (VLT: absorption)
+140211A	12:23:03	124.233	20.237	89.4	18
+140209A	07:30:57	81.328	32.488	21.3	41	Palomar (60"), Fermi (GBM), RAPTOR, Konus-Wind
+140206A	07:17:20	145.321	66.762	93.6	160	INTEGRAL, Searchlight Observatory Network (40cm), MASTER II, Mt. Nanshan (1m), VT-50 (0.5m), Fermi (GBM), T100 (1.0m), TNG  (3.6m), NOT, Virtual Telescope (0.43m), MITSuME (50cm), Liverpool (2m), Sayan Observatory (AZT-33IK), Discovery Channel Telescope (4.3m)	2.73 (NOT: absorption)|2.74 (TNG: absorption)
+140129B	12:51:09	326.764	26.215	1.36	0.71	MASTER II
+140129A	03:23:59	37.851	-1.594	2.99	1.3	Palomar (60"), HJT (1.5m), ROTSE-IIIb (0.45m), RAPTOR, Palomar Hale, Sayan Observatory (AZT-33IK)
+140118A	01:32:02	330.999	-17.937	84.15	26	Fermi (GBM)
+140114A	11:57:40	188.498	27.942	139.7	32	HJT (1.5m), NOT (2.5m)	3.0 (arXiv:1503.05323v1)
+140108A	17:18:42	325.129	58.749	94	70	MASTER II, CAHA (1.23m), D50 (0.5m), BART (0.25m), AZT-33IK, Fermi (GBM), Suzaku, Konkoly Observatory
+140103A	00:30:43	232.114	37.752	17.3	6.0	MASTER II, AS-32 (0.7m)
+140102A	21:17:37	211.915	1.332	65	77	Xinjiang (1m), CAHA (1.23m), Fermi (LAT & GBM), MAXI, MPG (2.2m), Konus-Wind, Palomar (60"), ARIES (1.3m), BOOTES-4 (0.6m), Mt. Lemmon (1m), MITSuME (50cm), Lulin (0.5m)
+131229A	06:39:24	85.236	-4.401	13.86	66	Konus-Wind, Fermi (GBM), Suzaku
+131227A	04:44:51	67.369	28.879	18.0	8.4	KAIT (0.76m), Xinglong (2.16m)	~5.3 (Gemini-North)
+131226A	05:47:39	301.309	-64.943	7.20	40	Konus-Wind
+131224B	03:25:08	163.722	-14.177	~9	2.6
+131205A	09:18:38	131.573	-60.181	37.5	2.9	MPG (2.2m)
+131202A	15:12:09	344.005	-21.650	30.4	6.1	Fermi (GBM), MPG (2.2m)
+131128A	15:06:24	355.305	31.293	3.00	3.2	Mt. Nanshan (1m), Kanata (1.5m), MPG (2.2m), Fermi (GBM)
+131127A	10:11:35	332.714	36.596	92.1	19
+131120A	14:37:56	278.937	-12.026	131	5.7
+131117A	00:34:04	332.354	-31.761	11.00	2.5	PROMPT (14"), MPG (2.2m), VLT, TAROT (50cm)	4.18 (MPG: photometric)|4.042 (VLT: absorption)
+131110A	11:53:11	69.268	-17.259	~100	35.3
+131105A	02:04:44	70.973	-63.005	112.3	71	VLT, Konus-Wind, Fermi (GBM)	1.686 (VLT: emission & absorption)
+131103A	22:07:25	348.948	-44.645	17.3	8.2	VLT	0.599 (VLT: emission & absorption)	R=20.07 (NOT)|R=20.48, J=19.63 (VLT)
+131031A	11:33:31	29.618	-1.603	n/a	n/a	CAHA (1.23m), Konus-Wind, Fermi (GBM), HJT (1.5m), AZT-33IK
+131030A	20:56:18	345.074	-5.380	41.1	290	Watcher, MASTER II, Liverpool (2m), NOT, GTC (10.4m), D50 (0.5m), BART (0.25m), CAHA (1.23m), Zeiss-1000 (1m), Konus-Wind, iTelescope (T21), TAROT (25cm), HJT (1.5m), Palomar (60"), Xinglong (0.8m), Bassano Bresciano Observatory (32mm), Skinakas Observatory (1.3m), Mt. Lemmon, MITSuME (50cm), DFOT (1.3m)	1.293 (NOT: absorption)|1.295 (GTC: absorption)
+131024B	21:35:31	144.464	44.284	64.00	12	Fermi (GBM), Suzaku
+131024A	12:26:20	290.544	-64.599	112.00	12
+131018A	12:47:48	98.473	-19.897	73.22	11
+131004A	21:41:03	296.108	-2.952	1.54	2.8	NOT, TNG (3.6m), Liverpool (2m), Magellan (6.5m), MPG (2.2m), TNG (4m), Fermi (GBM)	0.717 (Magellan: emission)|0.71 (TNG: emission)
+131002B	10:54:28	75.135	-75.701	39.10	6.2
+131002A	06:54:21	253.103	82.036	55.59	6.4	Faulkes  North (2m), ISON-NM (0.4m), Fermi (GBM)
+131001A	05:37:24	8.304	25.557	4.9	4.9
+130929A	09:36:33	135.028	-47.554	11.10	6.9
+130925A	04:11:24	41.186	-26.146	n/a	410	MPG/ESO (2.2m), MAXI/GSC, VLT/UVES, VLT/X-shooter, Fermi (GBM), HJT (1.5m), INTEGRAL, Konus-Wind, NuSTAR	0.347 (VLT/UVES: emission)|0.35 (VLT/X-shooter: emission)	White=22.9 (UVOT)
+130919A	11:07:24	207.281	-10.353	97.3	14
+130913A	00:28:21	341.960	1.294	n/a	1.3
+130912A	08:34:57	47.606	13.999	0.28	1.7	MPG/ESO (2.2m), Fermi (GBM), Palomar (60"), WHT, Konus-Wind
+130907A	21:41:13	215.898	45.602	>360	1400	MASTER II, NOT, Skynet (14"), HJT (1.5m), Tautenburg (1.34m), Fermi (LAT), VLA @ 24.5 GHz, iTelescope (T21, 0.43m), Konus-Wind, INTEGRAL, WSRT @ 4.9 GHz, AMI @ 15 GHz, AZT-22	1.238 (NOT: absorption)
+130831B	13:48:19	192.454	-29.187	37.8	14
+130831A	13:04:16	358.635	29.431	32.5	65	Faulkes North (2m), Faulkes South (2m), Weihai (1m), MITSuME (50cm), Gemini-North, Konus-Wind, Xinglong (60cm), Skynet/PROMPT (17"), Montarrenti Observatory (0.53m), Virtual Telescope (0.43m), iTelescope (0.32m), Taurus Hill Observatory (0.35m), TUBITAK T100 (1.0m), HJT (1.5m), SANTEL-650 (0.65m), VT-50 (0.5m), AZT-8 (0.7m), SANTEL-400AN, AZT-22, RTT150, MASTER II	0.4791 (Gemini-North: absorption)
+130829A	05:43:33	182.426	46.520	42.56	12
+130822A	15:54:17	27.940	-3.219	n/a	n/a
+130816B	04:53:38	170.049	-57.527	10.00	2.7	MPG/ESO (2.2m)
+130816A	01:46:55	197.093	-58.996	29.97	4.3	REM (60cm), MPG/ESO (2.2m), Fermi (GBM)
+130812A	22:22:52	92.387	-13.285	7.6	5.9
+130807A	10:25:43	269.801	-27.616	n/a	12
+130806A	02:51:33	35.907	67.525	6.1	1.7
+130803A	10:02:52	220.256	-2.499	44	15	Fermi (GBM)		MPG/ESO
+130727A	16:45:19.52	330.790	-65.540	13.57	38	Faulkes South (2m), MPG/ESO (2.2m), Fermi (GBM), Konus-Wind
+130725B	17:39:28	214.233	-11.124	10.0	3.9	MPG/ESO (2.2m), REM (60cm)
+130725A	11:37:11	230.060	0.624	101.8	9.7	Murikabushi (1m)
+130722A	08:19:19	260.670	-2.979	n/a	n/a	Faulkes South (2m), Skynet/GORT (14"), Konus-Wind		i'=19.58 (HJT)
+130719A	05:47:49	89.038	-11.591	177.7	23
+130716A	10:36:53	179.581	63.057	n/a	n/a	Fermi (GBM)
+130708A	11:43:03.7	17.474	0.003	9	78	Fermi (GBM)
+130701A	04:17:43	357.224	36.100	4.38	44	NOT, VLT, Konus-Wind, Palomar (60")	1.155 (VLT: absorption)
+130627B	12:00:50	181.914	-55.706	28.6	6.1
+130627A	08:55:03	184.415	-37.114	30.8	9.1	Fermi (GBM)
+130626A	10:51:03	273.128	-9.525	0.16	0.52
+130625A	07:00:39	343.336	82.171	38.1	18
+130623A	11:42:44.7	20.723	-77.784	15	5.4	Fermi (GBM), MPG/ESO (2.2m)
+130615A	09:44:45	274.963	-68.161	304	21	MPG/ESO (2.2m), PROMPT (16"), Zadko (100cm),
+130612A	03:22:22	259.771	16.729	4.0	2.3	Liverpool (2m), PAIRITEL (1.3m), PROMPT (16"), NOT (2.5m), Palomar (60"), HJT (1.5m), Sierra Nevada (1.5m), VLT, TAROT (25cm), ISON-NM (0.45m), iTelescope T21 (0.43m), Fermi (GBM)	2.006 (VLT: absorption)
+130610A	03:12:13	224.414	28.187	46.4	25	Liverpool (2m), PROMPT (16"), PAIRITEL (1.3m), Palomar (60"), VLT, Mt. Lemmon (1m), Fermi (GBM), ISON-NM (0.45m), iTelescope T21 (0.43m), CrAO, TAROT (25cm)	2.092 (VLT: absorption)
+130609B	21:38:40	53.776	-40.168	210.6	160	Konus-Wind, MPG/ESO (2.2m), Fermi (GBM), Suzaku
+130609A	03:05:08	152.680	24.124	7.0	5.7	Fermi (GBM)
+130608A	23:14:21	24.597	41.492	151.38	9.0
+130606A	21:04:39	249.390	29.796	276.58	29	TELMA (0.6m), CAHA (1.23m), NOT (2.5m), Sutherland Observatory (1.4m), Liverpool (2m), Virtual Telescope (0.43m), GTC (10.4m), Montarrenti Observator (0.53m), TUBITAK (1.0m), MMT (6.5m), HJT (1.5m), Mt. Lemmon (1m), PAIRITEL (1.3m), Palomar (60"), Abastumani Observatory (0.7m), MPG/ESO (2.2m), Konus-Wind, Abastumani Observatory (0.7m), PROMPT (16"), VLT, EVLA @ 21.8 GHz, TAROT (25cm), Liverpool (2m), Chandra	5.91 (GTC: absorption)|5.913 (MMT: absorption)|5.913 (VLT: absorption)
+130605A	23:41:42	134.536	-33.477	12.6	26	MPG/ESO (2.2m), TAROT (25cm), PROMPT (16"), Konus-Wind
+130604A	06:54:26	250.166	68.225	37.7	14	Palomar (60"), ISON-NM (0.45m), Gemini-North	1.06 (Gemini-North: emission)
+130603B	15:49:14	172.222	17.063	0.18	6.3	WHT, NOT (2.5m), GTC, Magellan (6.5m), Tubitak National Observatory (1.0m), Observatorio de Sierra Nevada (1.5m), Gemini-South, VLA @ 5.8 GHz, VLT, Palomar (60"), HJT (1.5m), Konus-Wind, HST, XMM-Newton	0.356 (GTC: absorption & emission)|0.356 (Magellan: emission, host)|0.356 (Gemini-South: emission)|0.3564 (VLT: absorption & emission)	r=20.94 (WHT)
+130603A	05:59:32	86.859	82.910	76	19	MITSuME (50cm), NM1 Telescope (0.40m)
+130529A	11:15:25	24.274	-64.143	128	14
+130528A	16:41:23	139.405	87.300	59.4	51	Konus-Wind, Fermi (GBM)
+130527A	14:21:30	309.282	-24.726	44	120	Konus-Wind, Suzaku
+130521A	22:49:16	87.568	14.470	11.0	4.2	PROMPT (16")
+130518B	10:50:38	321.555	-20.148	n/a	8.0
+130518A	13:55:07.4	355.671	47.478	n/a	n/a	Fermi (GBM & LAT), Konus-Wind, HJT (1.5m), Palomar (60"), GTC (10.4m), Gemini-North, PdBI @ 86.7 GHz, Suzaku	2.49 (GTC: absorption)|2.488 (Gemini-North: absorption)
+130515A	01:21:17	283.436	-54.283	0.29	1.5	Fermi (GBM), Konus-Wind, Suzaku
+130514A	07:13:41	296.278	-7.974	204	91	MPG/ESO (2.2m), PROMPT (16")	3.6 (MPG/ESO: photometric)
+130511A	11:30:47	196.654	18.709	5.43	2.2	Gemini-North, Higashi-Hiroshima Observatory (1.5m), SOAO (0.6m),  ANU (2.3m)	1.3033 (Gemini-North: absorption)
+130508A	17:08:53	305.351	34.966	42	6.6
+130505A	08:22:28	137.060	17.485	88	210	MAXI, Gemini-North, MITSuME (50cm), Weihai (1m), TNT (80cm), iTelescope (T12), Konus-Wind, Kharkiv National University (0.7m), Tautenburg (1.43m), HJT (1.5m), Suzaku, MITSuME (50cm)	2.27 (Gemini-North: absorption)
+130504A	02:05:34	272.459	-16.320	50	10	IAC80 (0.82m)
+130502A	17:50:30	138.579	-0.134	3.0	3.8	TNG, GTC (10.4m), IAC80 (0.82m), Fermi (GBM)
+130427B	13:20:41	314.900	-22.548	27.0	15	Faulkes North (2m), VLT	2.78 (VLT: tentative)
+130427A	07:47:57	173.150	27.706	162.83	3100	ISON-NM (0.45m), Palomar 60", Faulkes North (2m), PAIRITEL (1.3m), MITSuME (50cm), Gemini-North, iTelescope (T11, T21, T30), Weihai (1m), HJT (1.5m), MAXI/GSC, GMG (2.4m), Zadko (100cm), Fermi (LAT, GBM), AZT-11, T100 (1.0m), RAPTOR, NOT (2.5m), VLA @ 5.8 GHz, SNUO (0.6m), SOAO (0.6m), BOAO, CARMA @ 85 GHz, INTEGRAL, Kanata (1.5m), Konus-Wind, ARIES Nainital (1.04m), Stansbury Park (0.35m), VLT, TNT (80cm), CARMA @ 93 GHz, Nayuta (2m), PROMPT (16"), CrAO RT-22 @ 36 GHz, SARA (0.9m),  Challis Observatory (0.4m), Murikabushi (1m), AGILE, GMRT @ 1390 GHz, ABT (10"), VLA @ 20-22 GHz, KAIT (0.76m), Murikabushi (1m), Pan-STARRS 1 (1.8 m), RHESSI, Tautenburg (1.43m), Sandvreten Observatory (0.45m), NOT, Watcher (40cm), LBT, Keck, William Herschel (4.2m), AZT-33IK, GTC (10.4m), HST, BTA (6m), Konkoly Observatory	0.34 (Gemini-North: absorption)|0.338 (NOT: absorption)|0.3399 (VLT: absorption)|0.340 (LBT: absorption)| 0.3399 (William Herschel: emission, host)| 0.3393 (BTA)	Irregular galaxy, with a broadly elliptical shape (William Herschel).
+130420B	12:56:31	183.095	54.376	10.2	6.0	Fermi (GBM)
+130420A	07:28:29	196.118	59.421	123.5	71	Faulkes North (2m), ROTSE-III, PAIRITEL (1.3m), HJT (1.5m), iTelescope (T21), Weihai (1m), GMG (2.4m), GORT (14"), ISON-NM (0.45m), Fermi (GBM), RAPTOR, GTC (10.4m)	1.297 (GTC: absorption)
+130419A	13:30:29	355.278	9.900	75.7	7.8
+130418A	19:00:53	149.045	13.674	>300	18	CAHA  (1.23m), Bassano Bresciano Observatory, GTC (10.4m), TNG, TAROT (25cm), OSN (1.5m), MPG/ESO (2.2m), CARMA @ 93 GHz, HJT (1.5m), REM, VLT, Mt. Lemmon (1m), iTelescope (T18, T21), CTIO (1.3m), HJT (1.5m), Konus-Wind	1.218 (GTC)|1.217 (VLT: absorption)
+130408A	21:51:38	134.398	-32.363	28	23	Liverpool (2m), MPG/ESO  (2.2m), VLT, Gemini-South, Konus-Wind, CTIO (1.3m), Skynet, Suzaku	3.758 (VLT: absorption)|3.757 (Gemini-South)
+130327A	01:47:34	91.984	55.732	9.0	2.3	Harold Johnson Telescope (RATIR, 1.5m), Gemini-North
+130315A	12:45:32	157.541	-51.794	233.4	49	MPG/ESO (2.2m)
+130313A	16:08:11	236.438	-0.355	0.26	0.31
+130306A	23:51:01	279.475	-11.682	n/a	n/a	Fermi (GBM), Konus-Wind
+130305A	11:39:16	116.774	52.037	n/a	48	Fermi (GBM &LAT), Konus-Wind
+130216B	18:58:12	58.866	2.036	3.7	13	Fermi (GBM), Suzaku
+130216A	22:15:24	67.901	14.670	6.5	30	Fermi (GBM)
+130215A	01:31:30	43.486	13.387	65.7	54	ROTSE-IIIb, Skynet, Lick Shane (3m), Palomar (60"), CARMA @ 93 GHz, REM, Harold Johnson Telescope (1.5m), TAROT, Xinglong (2.16m), iTelescope T11, GMG (2.4m), RAPTOR, Fermi (GBM), MITSuME (50cm), MPG/ESO (2.2m), Palomar (200"), Palomar (48"), Suzaku, GTC (10.4)	0.597 (Lick Shane: absorption)|0.58 (GTC: derived)
+130211A	03:36:32	147.524	-42.330	25.1	6.4
+130206A	19:36:28	140.387	-58.193	128.0	20	Fermi (GBM)
+130131B	19:10:08	173.957	15.033	4.30	3.4		2.539 (Keck I: emission, host)	g = 25.7, I = 24.9 (Keck I)
+130131A	13:56:22	171.091	48.064	51.6	3.1	UKIRT, VLA @ 5.8 Ghz, CARMA @ ~85 GHz, AZT-33IK
+130122A	23:44:09	194.307	59.003	64	7.4	T100 (1.0m), MASTER II, Harold Johnson Telescope (1.5m), SANTEL-400AN (0.4m), RTT150
+130102A	18:10:53	311.435	49.838	77.5	7.2
+121229A	05:00:21	190.095	-50.588	n/a	4.6	MPG/ESO (2.2m), MAXI/GSC, VLT	2.707 (VLT: absorption)
+121226A	19:09:43	168.620	-30.413	1.00	1.4	GTC (10.4m), VLA @ 5.8 GHz, TNG
+121217A	07:17:47	153.708	-62.354	778	62	MPG/ESO (2.2m), Fermi (GBM)
+121212A	06:56:13	177.787	78.052	6.8	1.2	INTEGRAL, Keck I, ISON-NM (0.45m), Palomar (60"), AZT-22, Harold Johnson Telescope (1.5m), NOT
+121211A	13:47:02	195.575	30.173	182	13	Faulkes North (2m), Keck I, MITSuME (50cm), Harold Johnson Telescope (1.5m), Fermi (GBM)	1.023 (Keck I)
+121209A	21:59:11	326.800	-8.232	42.7	29	MPG/ESO (2.2m), MAXI/GSC		I = 23.2 (Keck I, possible host)
+121202A	04:20:05	256.790	23.942	20.1	12	Fermi (GBM)
+121201A	12:25:42	13.473	-42.929	85	7.8	MPI/ESO (2.2m), VLT	3.385 (VLT: emission  & absorption)
+121128A	05:05:37	300.589	54.301	23.3	69	Faulkes North (2m), Gemini North, Konus-Wind, Fermi (GBM), RAPTOR, Sayan (AZT-33IK), MITSuME (50cm), ARIES Nainital (1.04m), Abastumani Observatory (0.7m)	2.20 (Gemini North: absorption)
+121125A	08:32:27	228.519	55.318	52.2	47	Mt. Lemmon (1m), Fermi (GBM)
+121123A	10:02:41	307.334	-11.873	317	150	GMG (2.4m), Fermi (GBM), NOT (2.5m), BOOTES-4 (0.6m), IAC80 (0.82m), MPG/ESO (2.2m), Suzaku,  BOOTES-4/MET (0.6m), Abastumani Observatory (0.7m)
+121117A	08:50:56	31.617	7.432	30	14	MPG/ESO (2.2m)
+121108A	17:47:39	83.216	54.520	89	9.6
+121102A	02:27:02	270.896	-16.951	24.7	19	INTEGRAL
+121031A	22:50:30	170.772	-3.513	226	78	Fermi (GBM)
+121028A	05:04:31	271.903	-2.298	3.8	3.7
+121027A	07:32:29	63.598	-58.839	62.6	20	MAXI/GSC, Anglo-Australian Telescope, MPG/ESO (2.2m), CTIO (1.3m), Gemini-South, VLT	1.773 (arXiv:1302.2352v1)|1.77 (Gemini-South: absorption)|1.773 (VLT: emission and absorption)
+121024A	02:56:12	70.481	-12.255	69	11	TAROT (25cm), BOOTES-1B (0.3m), PROMPT, Dolomites Astronomical Observatory (16"), VLT, MPG/ESO (2.2m), PAIRITEL (1.3m), GMG (2.4m), CARMA @ ~85 GHz, EVLA @ 22 GHz, ARIES Nainital (1,04m)	2.298 (VLT: absorption)
+121017A	19:23:28	288.820	-1.602	4.2	6.6
+121014A	20:11:56	166.645	-29.105	80.0	11
+121011A	11:15:30	260.204	41.123	75.6	27	MITSuME (50cm), Xinglong TNT, MASTER II, TNG, VT-50 (0.5m), NOT (2.5m), Fermi (LAT & GBM), Nainital (1.04m), Suzaku
+121001A	18:23:02	276.029	-5.667	147	17	Zeiss-600, IAC80 (82cm), BOOTES-2/TELMA, MPG/ESO (2.2m)
+120927A	22:40:46	136.606	0.420	43	26
+120923A	05:16:06	303.781	6.255	27.2	3.2	Gemini-North
+120922A	22:30:28	234.758	-20.181	173	62	MPG/ESO (2.2m), TAROT (25cm), Fermi (GBM)	3.1 (MPG/ESO :photometric)
+120918A	11:16:10	181.042	-32.762	25.1	37
+120913B	23:55:58	213.660	-14.508	126	111	PROMPT, TAROT (25cm), REM, Pierre Auger Observatory (30cm), Fermi (GBM)
+120913A	20:18:21	146.400	26.959	30.1	8.7	Fermi (GBM)
+120911A	07:08:33	357.966	63.090	17.8	11	Fermi (GBM)
+120909A	01:42:03	275.735	-59.432	n/a	68	PROMPT, MPG/ESO (2.2m), VLT, Konus-Wind, Fermi (GBM), TAROT (25cm)	3.93 (VLT: absorption)
+120907A	00:24:23	74.736	-9.323	16.9	6.7	MASTER II, NOT, Fermi (GBM), OSIRIS/GTC, Santel-400AN (0.4m)	0.970 (OSIRIS/GTC: absorption)
+120819A	13:10:14	235.887	-7.304	71	14	NOT, MPG/ESO (2.2m)
+120817B	04:02:29	8.310	-26.428	n/a	1.7	Fermi (GBM), Konus-Wind
+120817A	06:49:42	250.692	-38.377	28.2	6.9	Faulkes North (2m), Faulkes South (2m)
+120816A	19:18:34	282.133	-6.981	7.6	4.3	Skinakas Observatory (1.3m)
+120815A	02:13:58	273.976	-52.125	9.7	4.9	MPG/ESO (2.2m), VLT/X-shooter	2.358 (VLT/X-shooter: absorption)
+120811C	15:34:52	199.690	62.297	26.8	30	MASTER II (Amur), RTT150, GTC (10.4m), NOT (2.5m), MASTER II (Tunka), Fermi (GBM), ISON-NM (0.45m), ISON-Kitab (0.4m)	2.671 (GTC: absorption)|2.67 {NOT: absorption)
+120811A	02:35:18	257.184	-22.735	166	11
+120807A	07:09:37	241.273	-47.455	20.0	2.9
+120805A	21:28:09	216.536	5.853	48.00	8.2	Calar Alto (1.23m), NOT, Liverpool	3.1 (arXiv:1503.05323v1)
+120804A	00:54:14	233.951	-28.768	0.81	8.8	Gemini-North, EVLA @ 5.8 GHz, Konus-Wind, Chandra,  XMM-Newton		Gemini-North: likely host
+120803B	11:06:06	314.223	53.298	37.5	25	Faulkes North (2m)
+120803A	07:22:16	269.531	-6.733	10.0	3.0
+120802A	08:00:51	44.833	13.762	50	19	Gemini-North, ISON-NM (0.45m)	3.796 (Gemini-North: absorption)
+120729A	10:56:14	13.078	49.936	71.5	24	Faulkes North (2m), Gemini-North, UKIRT, RAPTOR, IAC80, Fermi (GBM), KAIT (0.76m)	0.80 (Gemini-North: absorption)
+120728A	22:25:11	137.085	-54.437	22.06	24	MPG/ESO (2.2m)
+120724A	06:39:02	245.193	3.535	72.8	6.8	Faulkes North (2m), Gemini-North, AZT-22	1.48 (Gemini-North: absorption, tentative)	AZT-22: possible host
+120722A	12:53:26	230.489	13.249	42.4	12	MPG/ESO (2.2m), VLT	0.9586 (VLT: emission from host)
+120714B	21:18:46.57	355.412	-46.196	159	12	VLT, MPG/ESO (2.2m)	0.3984 (VLT: absorption)
+120714A	07:46:46	167.975	-30.625	16.2	8.2
+120712A	13:42:27	169.598	-20.051	14.7	18	MPG/ESO (2.2m), Gemini-South, VLT, Fermi (GBM)	4.0 (MPG/ESO: photo-z)|4.15 (Gemini-South: absorption)| 4.1745 (VLT: absorption)
+120711B	03:11:02.58	331.710	59.996	60	5.6
+120703A	17:25:22	339.353	-29.726	25.2	35	NOT (2.5m), Konus-Wind, Fermi (GBM)
+120701A	n/a	80.338	-58.531	13.8	14	MPG/ESO (2.2m)
+120630A	n/a	352.300	42.495	0.6	0.61	NOT (2.5m)
+120624B	22:19:51	170.886	8.933	>192	283	Fermi (GBM & LAT), Konus-Wind, Suzaku, VLT , Chandra, PdBI, VLA @ 5 GHz and 14 GHz
+120612A	02:05:19	126.723	-17.598	90	13
+120521C	23:22:07	214.288	42.144	26.7	11	EVLA @ 21.8 GHz, WHT, Gemini-North, Keck	~6.0 (Gemini-North: redshift estimate)
+120521B	09:07:48	197.016	-52.742	31.4	15	Fermi (GBM)
+120521A	05:59:42	148.692	-49.422	0.45	0.78
+120514A	01:12:49	283.002	-4.258	164.4	28	APEX, Suzaku
+120422A	07:12:03	136.915	13.974	5.35	2.3	Gemini-North (8m), Zadko (100cm), NOT, EVLA @ 6 and 22 GHz, MPI/ESO (2.2m), VLT, Palomar (200")	0.28 (Gemini-North: emission)|0.283 (VLT: emission)
+120404A	12:51:02	235.002	12.883	38.7	16	Faulkes North (2m), Gemini-North, TNT, MITSuME (50cm), Murikabushi (1m), VLT/UT2, Mt John University Observatory (61cm), MPG/ESO (2.2m), MASTER II, EVLA @ 22 GHz, ARIES (1.04m), ISON-Blagoveschensk Observatory (0.25m and 0.4m), Sayan Observatory	2.876 (Gemini-North: absorption)|~2.88 (VLT/UT2: absorption)
+120403B	20:33:56	54.302	-89.029	7.3	2.1	Fermi (GBM)
+120403A	01:05:23	42.458	40.489	1.25	1.0
+120401A	05:24:15	58.057	-17.658	n/a	9.1	MPG/ESO (2.2m)
+120328A	03:06:19	241.607	-39.322	24.2	4.7
+120327A	02:55:16	246.854	-29.415	62.9	36	TAROT (25cm), Liverpool (2m), Skynet/PROMPT, REM, MPI/ESO (2.2m), IAC80 (82cm), Gemini-South, VLT/UT2, Otto-Struve (2.1m), Watcher (40cm), GTC (10.4), NOT, Murikabushi (1m), Zadko (100cm), ATCA @ 34 GHz, CTIO (1.3m)	2.81 (Gemini-South: absorption)|2.813 (VLT/UT2: absorption)| 2.813 (GTC: absorption)
+120326A	01:20:29	273.906	69.248	69.6	26	TAROT (25cm), Skynet/Dolomiti, Liverpool (2m), IAC80 (82cm), Crni Vrh (60cm), Otto-Struve (2.1m), GTC (10.4m), AstroCamp Observatory (0.43m), Lulin (1m), GMG (2.4m), Observatoire de Maisoncelles (30cm), TNT, SMA @ 219 GHz, Mt. Lemmon (1m), Bassano Bresciano Observatory, PAIRITEL (1.3m), Fermi (GBM), Murikabushi (1m), CARMA @ 92.5 GHz, Suzaku, MITSuME (1m), EVLA @ 21.9 GHz, HCT (2m), Cima Rest (508mm)	1.798 (GTC: absorption)
+120324A	05:59:11	291.081	24.140	118	101	Konus-Wind
+120320A	11:56:15	212.517	8.682	25.74	5.9
+120312A	16:06:28	251.812	23.881	14.2	5.7	WHT, Gemini-North
+120311B	15:08:10	258.551	-13.068	28.2	10
+120311A	05:33:38	273.075	14.297	3.5	3.0	Liverpool (2m), CAHA (1.23m), MPI/ESO (2.2m), VLT
+120308A	06:13:38	219.123	79.674	60.6	12	Liverpool (2m), ISON-NM (0.45m), PAIRITEL (1.3m), IAC80 (82cm), RTT150 (1.5m), LOAO
+120305A	19:37:30	47.549	28.495	0.10	2.0
+120302A	01:55:39	122.426	29.642	n/a	6.6	Fermi (GBM), RTT150 (1.5m), ESO/MPI (2.2m)
+120229A	14:35:11	20.033	-35.796	0.22	0.41
+120224A	04:39:56	40.937	-17.779	8.13	2.4	MPG/ESO (2.2m), VLT
+120219A	14:30:08	129.862	51.006	90.5	5.4	TNT, Calar Alto (1.23m), AZT-33IK
+120218A	00:49:22	319.7641	-25.4626	27.5	53
+120215A	00:41:15	30.057	8.790	26.5	4.0	PROMPT
+120213A	00:27:19	300.987	65.413	48.9	19
+120212A	09:11:22	43.086	-18.043	5.52	5.1	Faulkes South, Higashi-Hiroshima Observatory (1.5m), MITSuME, NOT, GMG (2.4m), Fermi (GBM)
+120211A	11:58:28	87.781	-24.795	61.7	8.1
+120121A	09:42:19	249.363	-23.963	26.1	11
+120119A	04:04:30.21	120.029	-9.076	253.8	170	PAIRITEL (1.3m), Liverpool (2m), MPI/ESO (2.2m), PROMPT, Gemini-South (8m), Lick (3m), MMT (6.5m), ISON-NM (0.45m), Konus-Wind, Fermi (GBM), CTIO (1.3m), REM (60cm), TAROT (25cm), GRT,  Mt. Lemmon (1m)	1.728 (Gemini-South: absorption)|1.73 (Lick: absorption)|1.728 (MMT: absorption)
+120118B	17:00:21	124.862	-7.178	23.26	18		2.943 (Keck I: emission)	I = 23.8 (Keck I)
+120116A	18:06:28	16.240	33.927	41.0	29
+120114A	16:20:09	317.9043	57.0358	n/a	n/a
+120106A	14:16:24	66.129	64.050	61.6	9.7	MASTER II
+120102A	02:15:55	276.224	24.713	38.7	43	Konus-Wind, Fermi (GBM)
+111229A	22:37:52	76.561	-84.687	25.4	3.4	MPG/ESO (2.2m), Gemini-South, Faulkes South	1.3805 (Gemini-South: absorption)
+111228A	15:44:43	150.063	18.284	101.20	85	TNT, TAROT (25cm), MITSuME (50cm), Fermi (GBM), ARIES NainiTal (1.04m), Asiago Telescope (1.82m), NOT (2.5m), DAO (16"), IAC80 (82cm), GRAS 017 (17"), MASTER II, MPG/ESO (2.2m), MMT (6.5m), PAIRITEL (1.3m), Gemini-South, TNG, GMG (2.4m), T100 (1.0m), VLT, Palomar (60"), Liverpool (2m), PROMPT, CTIO (1.3), Kanata (1.5m), Konus-Wind, Mt. Lemmon (1m), Devasthal Fast Optical Telescope (1.3m), ISON-NM (0.45m), TNG (3.6m)	0.714 (MMT: absorption)|0.716 (Gemini-South: absorption)| 0.7156 (TNG: absorption)|0.713 (NOT: absorption)|0.71627 (VLT: absorption)
+111225A	03:50:37	13.158	51.573	106.8	13	TAROT (25cm), Super-LOTIS (0.6m), TNT, CAHA (1.23m), Keck I (10m), RAPTOR, Shajn Telescope, GTC (10.4)	0.297 (GTC: absorption)
+111215A	14:04:08	349.582	32.440	796	45	MAXI/GSC, CARMA @ 93 GHz, EVLA @ 21.8 GHz, Keck I (10m)
+111212A	09:23:07	310.442	-68.585	n/a	14
+111210A	14:37:03	191.493	-7.173	2.52	1.6	Gemini-North, ESO/MPG (2.2m)
+111209A	07:12:08	14.350	-46.799	n/a	360	TAROT (25cm), REM (60cm), Faulkes North (2m), PROMPT, ESO/MPG (2.2m), VLT, IRTF, Konus-Wind, ATCA @ 5.5, 9, and 18 GHz	0.677 (arXiv:1302.2352v1)|0.677 (VLT: absorption)
+111208A	08:28:11	290.2151	40.6686	n/a	9.8
+111207A	14:16:59	92.924	-39.504	3	n/a
+111204A	13:37:28	336.651	-31.414	48.0	4.7
+111201A	14:22:45	190.4854	32.9935	n/a	4.6	GMG (2.4m)
+111129A	16:18:14	307.415	-52.722	7.6	1.8	MPI/ESO (2.2m)
+111126A	18:57:42	276.057	51.461	0.8	0.7
+111123A	18:13:21	154.845	-20.639	290.0	73	GMG (2.4m), TNG (3.6m)	3.1516 (VLT: emission from host)	g=25.83, I = 23.55 (Keck I), VLT
+111121A	16:26:24	154.746	-46.670	119	22	Konus-Wind, Suzaku
+111117A	12:13:41	12.702	23.021	0.47	1.40	NOT, Fermi (GBM), Chandra, GMG		NOT, Magellan, Gemini-South, MPI/ESO (2.2m), TNG (3.6m)
+111109A	02:57:46	118.248	-41.588	13.0	2.4
+111107A	00:50:24	129.487	-66.520	26.6	8.8	Skynet, MPI/ESO (2.2m), Gemini-South, VLT, Fermi (GBM)	2.893 (Gemini-South: absorption)| Consistent with Gemini-South (VLT: absorption)
+111103B	10:59:03	265.691	1.605	167	80	Konus-Wind
+111103A	10:35:13	327.111	-10.532	11.6	14	Fermi (GBM)
+111029A	09:44:40	44.785	57.101	7.6	3.9
+111026A	06:47:29	244.256	-47.435	3.62	1.7
+111022B	17:13:04	108.927	49.663	79.1	9.0	Gemini-North, BTA (6m), GTC (10.4m), EVLA @ 22 GHz
+111022A	16:07:04	275.871	-23.666	24.7	20
+111020A	06:33:49	287.029	-38.031	0.40	0.65	Chandra, XMM-Newton
+111018A	17:26:24	271.482	-3.880	36	4.0
+111016A	18:37:04	153.826	27.474	550	40	Palomar (60"), Gemini-North
+111008A	22:12:58	60.439	-32.708	63.46	53	Gemini-South, NOT (2.5m), La Silla (2.2m), VLT, IAC80, Konus-Wind, EVLA @ 22 GHz, miniTAO (1.0m)	5.0 (Gemini-South: absorption)|4.9898 (VLT: absorption)
+111005A	08:05:14	223.315	-19.722	26	6.2	ATCA @ 18 GHz
+110928A	01:51:31	257.745	36.547	26.7	6.9
+110921A	13:51:20	294.094	36.355	48.00	24	TNT, Fermi (GBM), Sayan (AZT-33IK), MITSuME (50cm)
+110915A	13:20:44	310.830	-0.713	78.76	57	Konus-Wind
+110827A	00:01:52	164.059	53.817	8.5	1.8
+110820A	17:38:27	343.203	70.298	256	8.2
+110818A	20:37:49	317.373	-63.981	103	40	VLT, Fermi (GBM)	3.36 (VLT: absorption)
+110808A	06:18:54	57.322	-44.177	48	3.3	VLT	1.348 (VLT: emission)
+110801A	19:49:42	89.415	80.958	385	47	ROTSE-IIId, TLS (2m/1.34m), MITSuME (1m), GTC (10.4m), MASTER II, BTA (6m), Mt.Terskol (Zeiss-600), CrAO	1.858 (GTC: absorption)
+110731A	11:09:30	280.513	-28.536	38.8	60	Faulkes (North & South), Fermi (LAT & GBM), NOT, Konus-Wind, Gemini-North, Mt John University Observatory (61cm), Suzaku	2.83 (Gemini-North: absorption)
+110726A	01:30:40	286.713	56.070	5.2	2.2	ROTSE-IIId, Liverpool (2m), Murikabushi (1m), IAC80 (0.82m), Zeiss-1000 (1m), BTA (6m), Gemini-North	1.036 < z < 2.7 (Gemini-North)
+110719A	06:09:11	24.570	34.578	41.0	18
+110715A	13:13:50	237.665	-46.237	13.0	118	VLT, Konus-Wind, APEX, MPI/ESO (2.2m), ATCA @ 44.00 GHz, Ellinbank Observatory (0.32cm), Suzaku	0.82 (VLT: absorption)
+110709B	21:32:39	164.668	-23.470	55.6	94	Konus-Wind, Suzaku, EVLA @ 5.8 GHz
+110709A	15:24:29	238.895	40.918	44.7	100	Fermi (GBM), Konus-Wind, Konkoly (60/90cm), Suzaku
+110625A	21:08:28	286.751	6.755	44.5	280	Konus-Wind, Fermi (GBM & LAT), Suzaku
+110610A	15:21:32	308.205	74.827	46.4	49	Fermi (GBM), Suzaku
+110530A	15:31:02	282.045	61.953	19.6	3.3	MITSuME (50cm), MASTER II, Zeiss-200, Zeiss-600, NOT (2.5m), Xinglong TNT, Sayan (AZT-33IK)		Possible host (Zeiss-2000)
+110521A	15:51:31.4	120.132	45.818	13.8	4.4
+110520A	20:28:48	134.363	56.418	15.7	11
+110519A	02:12:16	261.638	-23.426	27.2	40
+110503A	17:35:45	132.799	52.211	10.0	100	GTC (10.4m), NOT, TLS (2m/1.34m), TNG, SARA (0.9m), EVLA @ 19.2 GHz and 24.5 GHz, Mt. Lemmon (1.0m), CrAO (Shajn), Konus-Wind, AAVSO (0.2m and 0.35m), TAROT (25cm)	1.613 (GTC: absorption)|1.61 (TNG: absorption), PAIRITEL (1.3m)
+110422A	15:41:55	112.057	75.100	25.9	410	AZT-33IK, MASTER II, NOT, Zeiss-1000, TNG (3.6m), THO (14"), McDonald Observatory (2.1m), Konus-Wind, Ishigakijima Astronomical Observatory (1m), CrAO (AZT-11), Suzaku, TNG, GTC (10.4m), CrAO (ZTSh), Herschel	1.77 (TNG: absorption)| 1.770 (GTC: absorption)
+110420B	22:42:11	320.045	-41.277	0.084	0.53	Fermi (GBM)
+110420A	11:02:24	2.164	-37.877	11.8	59	Konus-Wind, MPI/ESO (2.2m)
+110414A	07:42:14	97.876	24.349	152.0	35
+110412A	07:33:21	133.491	13.488	23.4	18	Fermi (GBM)
+110411A	19:34:11	291.427	67.706	80.3	33	Xinglong TNT
+110407A	14:06:41	186.022	15.726	145	17	Lulin (1m), NOT, MPI/ESO (2.2m)
+110402A	00:12:57	197.432	61.247	60.9	34	Liverpool (2m), NOT, Konkoly Observatory, Konus-Wind, Anysllum Observatory (350mm), Sayan Observatory , Fermi (GBM), Mt. Lemmon (1m), Suzaku, Shajn
+110319B	19:34:02	326.088	-56.774	14.5	10
+110319A	02:16:41	356.510	-66.008	19.3	14
+110318B	15:27:09	211.691	-51.577	4.8	2.9
+110318A	13:14:19	338.292	-15.278	16.0	49	Fermi (GBM)
+110315A	23:57:04	279.205	17.537	77	41
+110312A	17:55:37	157.500	-5.259	28.7	8.2
+110305A	06:38:01	260.877	-15.810	12.0	8.0	MPI/ESO (2.2m), REM (60cm)
+110223B	21:25:48	150.340	-68.329	54.0	6.1	MPI/ESO (2.2m)
+110223A	20:56:59	345.386	87.586	7.0	1.6
+110213A	05:17:29	42.978	49.278	48.0	59	Palomar (60"), ROTSE-IIIb, Bok (2.3m), GRAS 011 (0.51 m), KAIT (0.76m), Sayan (AZT-33IK), Lightbuckets (0.61m), Taurus Hill Observatory, MITSuME (50cm), Konus-Wind, Fermi (GBM), RAPTOR, TNT, Yunnan Observatory (2.4m)	1.46 (Bok: absorption)
+110212A	01:09:08	69.025	43.716	3.3	2.4
+110210A	09:52:41	13.108	7.778	233	9.6
+110208A	21:10:46	22.487	-20.561	37.4	2.7	Magellan
+110207A	11:17:20	12.540	-10.790	80.3	16	Fermi (GBM), Suzaku
+110205A	02:02:41	164.603	67.533	257	170	TAROT (25cm), ROTSE-IIIb, Liverpool, Lick (3m), PAIRITEL (1.3m), GRAS 005, FLWO (1.5m), NOT (2.5m), Zeiss-600, Mt. Lemmon (1.0m), Newcastle Observatory (0.4m), Obs. Chante-Perdix (0.5m), Mt. Lulin (1.0m), MITSuME (50cm), Murikabushi (1m), Lightbuckets (0.61m), Konus-Wind, Himalayan Chandra Telescope (2m), Sayan (AZT-33IK), Suzaku, Calar Alto (2.2m), Konkoly Observatory (60/90cm), EVLA @ 22 GHz	1.98 (Lick: absorption, possible)|2.22 (FLWO: absorption, host)| 2.22 (NOT: absorption)
+110201A	09:35:08	137.489	88.610	13.0	7.0
+110128A	01:44:33	193.871	28.108	30.7	7.2	NOT (2.5m), VLT, WHT, TAROT, TNG (3.6m), Fermi (GBM)	2.339 (VLT: absorption)
+110119A	22:20:58	348.589	5.982	208	70	PAIRITEL, Suzaku, Fermi (GBM)
+110112A	04:12:18	329.936	26.470	0.5	0.30	TNT, WHT
+110107A	21:15:51	299.890	41.889	n/a	58	Fermi
+110106B	21:26:17	134.155	47.005	24.8	20	WHT, Gemini-South, Fermi (GBM)
+110106A	15:25:16	79.295	64.199	4.3	3.0	MASTER II
+110102A	18:52:25	245.877	7.617	264	165	Fermi (GBM), MITSuME (50cm), Konus-Wind
+101225A	18:37:45	0.2037	44.5739	1088.0	19	NOT, WHT (4.2m), Calar Alto (1.23m), Palomar (60"), MMT (6.5m), McDonald Observatory (2.1m), Gemini North	0.847(arXiv:1302.2352v1)|0.40 (Keck I: emission)	R = 24.1 (NOT, possible host)
+101224A	05:27:13	285.939	45.706	0.2	0.58	Fermi (GBM)
+101219B	16:27:53	12.259	-34.556	34	21	Fermi (GBM), MPI/ESO (2.2m), EVLA @ 8.46 GHz, GROND, ESO-VLT	0.5519 (ESO-VLT: tentative redshift)	UVW2 = 23.4 (Swift-UVOT: likely host)
+101219A	02:31:29	74.586	-2.527	0.6	4.6	Konus-Wind	0.718 (Gemini-North: emission, host)	i~23.5 (Gemini-South)|J=21.6 (Magellan)
+101213A	10:49:23	241.297	21.905	135	50	Fermi (GBM), Konus-Wind, Suzaku
+101204A	23:53:29	167.548	-20.434	n/a	12	VATT, MPI/ESO (2.2m)
+101201A	10:01:48	1.955	-16.196	n/a	n/a	MPI/ESO (2.2m), Fermi (GBM)
+101129A	15:39:31	155.921	-17.645	0.35	~0.9	Konus-Wind, Suzaku
+101117B	19:13:23	172.991	-72.651	5.2	11
+101114A	00:32:50	303.193	14.029	>10	8.0	Konus-Wind
+101030A	15:56:29	166.390	-16.389	92.0	20	MPG/ESO (2.2m), MOA-II (1.8m)
+101024A	11:39:29.82	66.465	-77.261	18.7	15	GRAS06 RCOS-16, Fermi (GBM), Zadko (100cm), MPG/ESO (2.2m), AAVSO (280mm)
+101023A	22:50:12	317.949	-65.389	80.8	270	Gemini-South, ESO/MPI (2.2m), Fermi (GBM), miniTAO (1.0m), Konus-Wind
+101020A	23:40:41	189.607	23.129	175.0	26
+101017A	10:32:47	291.377	-35.141	70.0	180	Konus-Wind
+101011A	16:58:35	48.274	-65.990	71.5	14	Fermi (GBM)
+101008A	16:43:15	328.882	37.060	104	11	Zeiss-1000, MPI/ESO (2.2m), MASTER-Net, Fermi (GBM)
+100928A	02:19:52	223.037	-28.542	3.3	3.5
+100924A	03:58:08	0.672	7.004	96.0	83	MPI/ESO (2.2m), Fermi (GBM), Suzaku
+100917A	05:03:25	289.250	-17.120	66	8.6
+100915A	01:31:05	315.664	65.676	200	15
+100906A	13:49:27	28.697	55.634	114.4	120	MASTER, Faulkes North, Gemini-North, UKIRT, TLS (1.34m), Ondrejov (65cm), MITSuME (50cm), Virtual Telescope, Fermi (GBM), Murikabushi (1m), Konus-Wind, Konkoly Observatory, GRAS-007 (17"), RTT150, AMI Large Array @ 15 GHz, Zeiss-2000, Ondrejov (0.5m), GAS-250, AZT-14, Zeiss-600, Shajn Telescope, AZT-22	1.727 (Gemini-North: absorption)
+100905A	15:08:14	31.542	14.919	3.4	1.7	UKIRT
+100904A	01:33:43	172.907	-16.185	31.3	13
+100902A	19:31:54	48.626	30.970	428.8	32	ESO/MPI (2.2m), CFHT	4.5 (Swift XRT: tentative redshift)
+100901A	13:34:10	27.252	22.751	439	21	Faulkes North, AZT-33IK, MASTER, Gemini-North, Z-600, NOT, MITSuME (50cm), Taurus Hill, SARA-North (0.9m), Himalayan Chandra Telescope (2m), Vega (0.7m), ROTSE-III, OSN (1.5m), ISON-NM (0.45m), TLS (1.34m), Kanata (1.5m), HCT (2m), Lightbuckets (0.61m), Zeiss-2000, Meade-35, Murikabushi (1m), UKIRT, Gnosca (0.4m), WSRT @ 4.9 GHz, AZT-11, EVLA @ 4.5 and 7.9 GHz, AZT-22	1.408 (Gemini-North: absorption, host redshift)
+100823A	17:25:35	20.706	5.848	16.9	4.1	WHT (4.2m), MOA-II (1.8m), MAXI
+100816A	00:37:51	351.738	26.568	2.9	20	TNG (3.6m), TAROT (25cm), McDonald Observatory (2.1m), Gemini-North, Calar Alto (1.23m), Lulin (1m), NOT, VLT, Fermi (GBM), GTC (10.4m), Konus-Wind	0.8034 (VLT: emission and absorption)|0.8035 (Gemini-North: absorption)|0.8049 (GTC: absorption)
+100814A	03:50:11	22.479	-17.990	174.5	90	ROTSE-IIIc, Magellan Clay Telescope, IAC80 (0.82m), MPI/ESO (2.2m), McDonald Observatory (2.1m), Fermi (GBM), Lulin (1m), NOT, Liverpool (2m), Konus-Wind, ISON-NM (0.45m), EVLA @ 4.5 and 7.9 GHz, Suzaku, AZT-22	1.44 (Magellan: absorption)
+100807A	09:13:13	55.283	67.665	7.9	3.4	Zeiss-1000, Palomar (60"), Palomar (200")
+100805A	04:12:42	299.846	52.618	15.0	5.1	Palomar (60"), Liverpool (2m), Calar Alto (1.23m), RAS Observatory, IAC80  (82cm), ROTSE-IIIb, RAPTOR, TNT, OSN (1.5m), Zeiss-1000, CrAO (Shajn)
+100802A	05:45:36	2.482	47.752	487	36	Palomar (60"), NOT, Ferm (GBM)
+100728B	10:31:55	44.051	0.296	12.1	17	KAIT, Lick (1.0m), PROMPT (16"), ISON-NM Observatory (0.45m), MPI/ESO (2.2m), Fermi (GBM), NOT, VLT	~2.8 (UVOT: photometric)|2.106 (VLT: absorption)
+100728A	02:18:24	88.753	-15.259	198.5	380	Fermi (GBM), MPI/ESO (2.2m), Konus-Wind, Suzaku	1.567 (VLT: emission, host)	r' = 25.0 +/- 0.2 (GROND)
+100727A	05:42:17	154.187	-21.417	84	12	Fermi (GBM)
+100725B	11:24:34	290.029	76.955	200	68
+100725A	07:12:52	166.468	-26.667	141	20
+100724A	00:42:19	194.569	-11.095	1.4	1.6	ESO/MPI (2.2m)	1.288 (VLT: absorption)
+100719A	03:30:57	112.319	-5.857	36.0	5.3
+100704A	03:35:08	133.639	-24.202	197.5	60	Fermi (GBM), Konus-Wind	3.6 (Swift: tentative redshift)
+100702A	01:03:47	245.693	-56.549	0.16	1.2
+100628A	08:16:40	225.943	-31.653	0.036	0.25	INTEGRAL
+100625A	18:32:28	15.796	-39.091	0.33	2.3	Konus-Wind, Fermi (GBM)		r~23 (Gemini-South),  r~23 (Magellan)
+100621A	03:03:32	315.309	-51.102	63.6	210	MPI/ESO (2.2m), VLT, SAAO (1.4m), Konus-Wind	0.542 (VLT: emission)
+100619A	00:21:07	84.618	-27.012	97.5	45	Fermi (GBM)
+100615A	01:59:03	177.208	-19.483	39	50	Fermi (GBM), Chandra	1.398 (VLT: emission, host)	HST, VLT
+100614A	21:38:26	263.534	49.232	225	27
+100606A	19:12:41	350.617	-66.234	480	64	Konus-Wind, Suzaku		r~25 (Gemini-South), g' and r' detections (MPI/ESO)
+100526B	19:00:38	0.777	-37.913	64.0	4.7
+100526A	16:26:10	230.792	25.623	102	25	Gemini-North		Gemini-North
+100522A	03:45:52	6.990	9.397	35.3	21	Fermi (GBM), Suzaku, Konus-Wind
+100514A	18:53:58	328.821	29.170	n/a	n/a	Shajn Telescope
+100513A	02:07:08	169.606	3.617	84	14	PAIRITEL (1.3m), Lick Observatory (40"), Gemini North, Faulkes South, CrAO (Shajn Telescope)	4.772 (Gemini North: absorption)
+100508A	09:20:42	76.263	-20.744	52	7.0	MPI/ESO (2.2m)
+100504A	19:20:59	255.575	-35.590	97.3	24	Fermi (GBM)
+100427A	08:31:55	89.171	-3.461	n/a	n/a	Fermi (GBM)
+100425A	02:50:45	299.161	-26.463	37.0	4.7	VLT, MPI/ESO (2.2m)	1.755 (VLT: absorption)
+100424A	16:32:42	209.453	1.512	104	15	Gemini North (8m)	2.465 (VLT: emission, host)	g = 26 (AB), I = 24.4 (Keck I)
+100423A	00:34:59	136.471	21.487	n/a	85	MPI/ESO (2.2m), PROMPT (16"), Konus-Wind, Suzaku
+100420A	05:22:42	296.090	55.755	48	5.7	Gemini-North
+100418A	21:10:08	256.358	11.457	7.0	3.4	ESO/MP (2.2m), SARA (0.9m), VLT, Gemini North, ROVOR (16"), PAIRITEL (1.3m), SMA @ 345 GHz, AZT-11, RTT150, REM (60cm), WSRT @ 4.8 GHz, EVLA, Z-600, Russian-Turkish (1.5m), Keck I (10m), Shajn	0.6235 (VLT: absorption)|0.624 (Gemini North: absorption)	g,r,and i bands (SDSS)
+100413B	08:42:41	356.8264	51.2704	n/a	4.3
+100413A	17:33:28	266.223	15.835	191	62	Konus-Wind, Suzaku, EVLA @ 8.5 GHz	3.9 (Swift-XRT: tentative)
+100401A	07:07:31.9	290.813	-8.257	n/a	n/a	Fermi (GBM)
+100324A	00:21:27	98.612	-9.735	~6	0.7
+100316D	12:44:50	107.599	-56.275	n/a	3.0	VLT, Gemini South, ESO/MPI (2.2m), Magellan (6.5m)	0.014
+100316C	08:57:59	32.309	-67.992	9.3	1.8	ESO/MPI (2.2m)
+100316B	08:01:36	163.499	-45.464	3.8	2.0	ESO/MPI (2.2m), PROMPT (16"), VLT	1.180 (VLT: absorption)
+100316A	02:23:00	251.953	71.819	7.0	8.2	Calar Alto (1.23m)
+100305A	09:05:38	168.373	42.381	69.7	15
+100302A	19:53:06	195.504	74.568	17.9	3.1	Lulin (1m), Gemini-North	4.813 (Gemini-North: absorption)
+100224A	15:20:10	83.467	-7.994	n/a	0.32
+100219A	15:15:46	154.202	-12.555	18.8	3.7	NOT, MPI/ESO (2.2m), MITSuME (50cm), VLT, Gemini South, Gunma Astronomical Observatory (150cm)	4.5 (MPI/ESO: photometric)|4.6667 (VLT: absorption)|4.7 (Gemini South: absorption)	Palomar: potential (lowish redshift) host candidate.|UVOT: The fading observed suggests that this is the afterglow of GRB 100219A superimposed on the host galaxy candidate (GCN 10433).
+100216A	10:07:00	154.263	35.524	n/a	0.47
+100213B	22:58:34	124.320	43.464	48.0	n/a	MDM (1.3m)
+100213A	22:27:48	349.379	43.370	2.4	2.7
+100212A	14:07:22	356.445	49.492	136	9.1	NOT, Fermi (GBM), Mt. Lemmon (1.0m)
+100206A	13:30:05	47.168	13.175	0.12	1.4	Fermi (GBM)		R=21.7, possible host (Palomar)|Possible host with z=0.41 (Keck)|J=18.35, H=17.55, Ks=16.56, possible host (PAIRITEL)|Second potential host (WHT, Gemini-North)
+100205A	04:18:43	141.385	31.740	26.0	4.0	Gemini-North
+100203A	18:31:07	96.225	4.793	n/a	n/a
+100119A	18:25:25	299.308	-53.149	23.8	140	Konus-Wind, Suzaku
+100117A	21:06:19	11.280	-1.586	0.3	0.93	Gemini South, Magellan, Gemini North, Fermi (GBM)
+100115A	11:15:19	3.333	-0.817	~3	n/a	SARA (0.9m), NOT, Gemini-North		NOT: possible host
+100111A	04:12:49	247.029	15.539	12.9	6.7	NOT, Fermi (GBM), AZT-22 (1.5 m)
+091221	20:52:52	55.798	23.243	68.5	57	ROTSE-III, ESO/MPI (2.2m), Fermi (GBM), PROMPT (16")
+091208B	09:49:57	29.411	16.881	14.9	33	BOOTES-3, MITSuME (50cm), Faulkes (2m), Gemini North, Fermi (GBM), NOT, ESO/MPI (2.2m), Keck I, Z-600, Gunma Astronomical Observatory (150cm), Xinglong TNT	1.063 (Gemini North: absorption)|1.0633 (Keck I: absorption)
+091208A	08:46:00	0.295	65.680	29.1	15	Konus-Wind, Suzaku
+091130B	17:59:04	203.149	34.086	112.5	13
+091127	23:25:45	36.581	-18.948	7.1	90	Liverpool (2m), REM (60cm), ESO/MPI (2.2m), NOT, CAHA (1.23m), TAROT (25cm), Gemini-North, MASTER II, Fermi (GBM), Mt.Terskol (Z-600), Konus-Wind, PROMPT (16"), Suzaku, VLT, Zadko (1.0m), CTIO (1.3m), Gunma Astronomical Observatory (150cm)	0.490 (Gemini-North: emission)|0.49034 (VLT: emission)
+091112	17:41:21	257.751	-36.729	17	21	Fermi (GBM), Suzaku
+091109B	21:49:03	112.750	-54.092	0.3	1.9	VLT, Suzaku
+091109A	04:57:43	309.252	-44.177	48	16	Faulkes South (2m), ESO/MPI (2.2m), VLT	3.5 (ESO/MPI: photometric)|3.076 (VLT: absorption)
+091104	08:49:22	208.723	47.391	99.3	7.7
+091102	14:34:38	72.622	-72.527	6.6	5.2	Fermi (GBM), Suzaku
+091029	03:53:22	60.166	-55.954	39.2	24	ESO/MPI (2.2m), PROMPT (16"), Gemini-South, BOOTES-3, CTIO (1.3m), Stardome (0.4m)	2.752 (Gemini-South: absorption)
+091026	13:11:30	276.657	-86.113	41.6	18	Suzaku
+091024	08:56:01	339.240	56.885	109.8	61	Faulkes North (2m), RAS Observatory, Gemini-North, Xinglong TNT, Fermi (GBM), SRO (35cm), Super-LOTIS (0.6m), KAIT, Konus-Wind, Konus-RF, Yunnan Observatory (2.4m), SAO RAS, ZTE	1.092 (Gemini-North)|1.091 (Keck I: absorption)
+091020	21:36:44	175.727	50.977	34.6	37	MASTER II, NOT, Konus-Wind, Lick (40"), TLS (1.34m), VLA @ 8.46 GHz, Fermi (GBM), Dark Sky Observatory (14")	1.71 (NOT)
+091018	20:48:19	32.191	-57.546	4.4	14	ROTSE-III, Magellan Clay, ESO/MPI (2.2m), VLT, BOOTES-3, Faulkes South, Konus-RF, PROMPT (16"), miniTAO (1.0m), CTIO (1.3m)	0.971 (Magellan Clay: absorption)|0.9710 (VLT: absorption)
+090929B	10:09:07	117.712	-0.645	360	59	RAPTOR, Konus-Wind, Suzaku
+090927	10:07:16	343.929	-70.973	2.2	2.0	Zadko (1.0m), VLT, Faulkes South, Fermi (GBM)	1.37 (VLT: absorption)
+090926B	21:55:48	46.310	-38.997	109.7	73	MAXI (GSC), VLT, Fermi (GBM)	1.24 (VLT: emission & absorption)
+090916	07:00:44	126.582	25.941	63.4	9.5
+090915	15:35:36	237.990	15.480	8	5	SARA (0.9m)
+090912	15:50:29	188.046	61.475	144.0	45	Zeiss-600
+090904B	01:24:18	264.194	-25.219	47.0	110	Fermi (GBM), ESO/MPI (2.2m)
+090904A	01:01:06	100.855	50.235	122	30	NOT
+090831C	21:30:25	108.294	-25.112	3.3	1.5
+090827	19:06:26	18.435	-50.899	n/a	40	Konus-Wind
+090815C	23:21:39	64.490	-65.943	0.6	0.44
+090814A	00:52:19	239.613	25.586	80	13	ESO/MPI (2.2m), VLT, NOT, Shajn (CrAO)	0.696 < z < 2.2 (VLT: absorption)
+090813	04:10:43	225.065	88.571	7.1	13	Calar  Alto (1.23m), Palomar (60"), Liverpool (2m), Konus-Wind, Fermi (GBM), Suzaku, Shajn Telescope
+090812	06:02:08	353.20	-10.609	66.7	58	Palomar (60"), Liverpool (2m), VLT, ESO/MPI (2.2m), RAPTOR, Faulkes South, Suzaku, Konus-Wind, PROMPT (16")	2.452 (VLT: absorption)
+090809	17:31:14	328.665	-0.083	5.4	3.4	NOT, VLT, WHT	2.737 (VLT)
+090807	15:00:27	273.741	10.279	140.8	22
+090728	14:45:45	29.644	41.632	59	10	Faulkes North (2m)
+090727	22:42:18	315.917	64.937	302	14	Liverpool (2m), Calar Alto (1.23m), SAO RAS (6m)
+090726	22:42:27	248.681	72.866	67.0	8.6	SAO RAS (1m), SAO RAS (6m), Ondrejov (50cm), Crni Vrh Observatory (60cm), Shajn, Konkoly Observatory (60/90 cm)	2.71 (SAO RAS: absoption)
+090720	06:38:08	203.694	-10.335	n/a	n/a	Fermi (GBM), Gemini-North
+090715B	21:03:14	251.337	44.837	266	57	Liverpool (2m), NOT, WHT, San Pedro Martir (1.5m), Konus-Wind, Lick (2m), VLA @ 8.46 GHz, Lick (3m), PROMPT (16")	3.00 (WHT)
+090715A	17:25:39	152.102	10.006	63	9.8	Konus-Wind, Suzaku
+090712	03:51:05	70.097	22.525	145	40	Fermi (GBM)
+090709B	15:07:42	93.522	64.081	27.2	15	Fermi (GBM)
+090709A	07:38:34	289.944	60.728	89	257	Subaru, PAIRITEL, Palomar (60"), Konus-Wind, Faulkes North (2m), INTEGRAL, Suzaku		K' = 22.0 (Gemini-North)
+090708	03:38:15	154.632	26.616	15.0	6.9	Fermi (GBM)
+090628	21:20:12	237.038	-15.969	20.1	7.0
+090621B	22:07:25	313.455	69.034	0.14	0.70	Fermi (GBM)
+090621A	04:22:43	10.987	61.938	n/a	n/a	Fermi (GBM)
+090618	08:28:29	294.008	78.352	113.2	1050	Palomar (60"), KAIT, ROTSE-IIIb, Lick (3m), Observatorio Astrofisico Guillermo Haro (2.1m), Faulkes North, Mt. Lemmon (1.0m), AGILE , SARA (0.9m), Liverpool, AMI Large Array @ 14.6 to 17.5 GHz, VLA @ 8.46 GHz, Fermi GBM, OAUV (0.4m), WSRT @ 4.9 GHz, Shajn, BOAO (15.5cm), SAO RAS (6m), RTT150, Konus-Wind, PAIRITEL (1.3m), AGILE , Suzaku, SARA (0.9m), HCT (2m), Sayan Observatory (1.5m), CORONAS-PHOTON	0.54 (Lick: absorption)|0.54 (SAO RAS: emission)	r = 22.7, i = 22.2 (SDSS)
+090607	05:30:17	191.194	44.108	2.3	1.1
+090531B	18:35:56	252.070	-36.015	80	7.1
+090531A	01:45:17	178.672	7.824	32	13
+090530	03:18:18	179.400	26.590	48	11	ROTSE-IIIb, PAIRITEL (1.3m), GRAS002 (0.30m), NOT, MPI/ESO (2.2m), Mt. Lemmon (1.0m), RAPTOR, RTT150, Dark Sky Observatory (14"), VLT	~1.266 (VLT)
+090529	14:12:35	212.446	24.450	>100	6.8	TNT, TLS (1.34m), Mt.Terskol (Z-600), OSN (1.5m), NOT, VLT, MITSuME (50cm), RTT150	2.625 (VLT: absorption)
+090520	01:37:16	11.613	-8.000	20	3.4
+090519	21:08:56	142.317	0.190	64	12	NOT, ESO/MPI (2.2m), VLT	3.9 (ESO/MPI: photometric)|3.85 (VLT: absorption)
+090518	01:54:44	119.957	0.778	6.9	4.7
+090516A	08:27:50	138.246	-11.848	210	90	Faulkes South (2m), NOT (2.5m), Zadko (1.0m), VLT, ESO/MPI (2.2m), Stardome (0.4m), Fermi (GBM), Konus-Wind	4.109 (VLT: absorption)|4.1 (ESO/MPI: photometric)
+090515	04:45:09	164.166	14.469	0.036	0.2
+090510	00:23:00	333.552	-26.598	0.3	3.4	Fermi (LAT), Fermi (GBM), NOT, AGILE, Konus-Wind, La Silla (2.2m), VLT, Suzaku	0.903 (VLT: emission)
+090509	05:10:03	241.422	-28.385	335	33	ESO/MPI (2.2m), REM (60cm), CTIO (1.3m), Fermi (GBM)
+090429B	05:30:03	210.672	32.167	5.5	3.1	Gemini-North
+090429A	04:53:39	90.573	-52.389	188	10
+090426	12:48:47	189.082	32.978	1.2	1.8	TNT, Keck-I, MITSuME (50cm), Okayama Astrophysical Observatory (188cm), ESO/MPI (2.2m), VLT, Gao-Mei-GU (2.4m), Gunma Astronomical Observatory (150cm), AZT-11	2.609 (Keck-I: absorption)|2.609 (VLT: absorption)
+090424	14:12:09	189.531	16.829	48	210	ROTSE-IIIa, TNT, Fermi (GBM), Calar Alto (1.23m), Liverpool (2m), AAVSO (0.4m), TAOS (50cm), Gemini-South, ESO/MPI (2.2m), Taurus Hill Observatory (0.35m), Lulin (1m), WHT, Mt. Lemmon (1.0m), VLA @ 8.46 GHz, Suzaku, Sampurnanand (1.04m), Gao-Mei-Gu (2.4m), CTIO (1.3m), ICSP VLF, AZT-11	0.544 (Gemini-South: absorption)|0.544 (WHT)
+090423	07:55:19	148.891	18.165	10.3	5.9	UKIRT, Gemini-North, MPI/ESO (2.2m), TNG (3.6m), Okayama Astrophysical Observatory (188cm), Fermi (GBM), Plateau de Bure Interferometer, Spitzer	8.0 (MPI/ESO: photometric)|~8.1 (TNG)
+090422	03:35:16	294.746	40.398	8.5	2.3	Fermi (GBM)
+090419	13:43:31	197.006	-75.615	450	25	ESO/MPI (2.2m)
+090418B	08:59:02	225.910	17.224	65.0	160	Konus-Wind, Suzaku
+090418A	11:07:40	269.320	33.407	56	46	KAIT, ROTSE-IIIb, Lick (3m), PAIRITEL (1.3m), VLA @ 8.46 GHz, Shajn (CrAO), RTT150, Konus-Wind, Sonoita Research Observatory (35cm), Shajn	1.608 (Lick: absorption)
+090417B	15:20:03	209.687	47.015	>260	23
+090417A	13:17:23	34.993	-7.141	0.072	0.19
+090410	16:57:52	334.956	15.419	165	56	Suzaku
+090407	10:28:25	68.979	-12.684	310	11		1.4485 (TOUGH: emission)
+090404	15:56:30	239.233	35.518	84	30	Plateau de Bure Interferometer
+090401B	08:35:25	95.095	-8.963	183	100	AGILE, NOT, Konus-Wind, Suzaku
+090401A	00:00:59	350.920	29.762	112	110	Konus-Wind, Suzaku
+090313	09:06:27	198.400	8.086	79	14	KAIT, ESO/MPI (2.2m), Faulkes North (2m), OSN (1.5m), GRAS-04 (0.25m), Gemini-South, PAIRITEL, Zadko, TAROT (25cm), IAC80 (0.8m), MITSuME (50cm), AMI Large Array @ 14.5 to 17.5 GHz, CARMA @ 92.5 GHz, CTIO (1.3m), VLA @ 8.46 GHz, VLT, Melipal, WSRT @ 4.9 GHz, Bologna Observatory (1.52m)	3.375 (Gemini-South: absorption)|3.375 (VLT: absorption)|3.3721 (Melipal: absorption)
+090309A	23:29:13	284.978	-25.274	3.0	1.3
+090308A	18:01:23	183.545	-48.754	48	2.6
+090307A	03:46:37	245.007	-28.647	22	2.6
+090306B	23:07:02	231.204	-6.958	20.4	31
+090305A	05:19:51	241.764	-31.572	0.4	0.75	Gemini South, Magellan/Baade (6.5m)
+090301A	06:55:55	338.142	26.639	41.0	230	Konus-Wind, Suzaku
+090205	23:03:14	220.917	-27.848	8.8	1.9	VLT, ESO/MPI (2.2m), Zadko Telescope (1.0m)	4.7 (ESO/MPI: photometric)|4.6497 (VLT: absorption)
+090201	17:47:02	92.051	-46.604	83	300	VLT, Konus-Wind
+090129	21:07:15	269.105	-32.793	17.5	21	Fermi
+090123	07:51:56	6.794	-23.503	131	29	ESO/MPI (2.2m)
+090118	13:54:02	49.865	18.478	16	4.0
+090113	18:40:39	32.067	33.436	9.1	7.6		1.7493 (TOUGH: emission)
+090111	23:58:21	251.656	0.067	24.8	6.2
+090107A	04:48:04	302.409	4.744	12.2	2.3
+090102	02:55:45	128.248	33.107	27.0	0.68	TAROT (25cm), REM (60cm), NOT, ESO/MPI (2.2m), IAC80, Palomar (60" and 200"), Hobby-Eberly, Konus-Wind	1.547 (NOT)|1.546 (Palomar 200": absorption)|1.55 (Hobby-Eberly: absorption)	R~24.5 (HST)
+081230	20:36:12	37.330	-25.145	60.7	8.2	ROTSE-IIIc, ESO/MPI (2.2m)
+081228	01:17:40	39.477	30.833	3.0	0.89	ESO/MPI (2.2m)
+081226A	01:03:37	120.478	-69.014	0.4	0.99	Fermi GBM
+081222	04:53:59	22.748	-34.095	24	48	REM (60cm), ESO/MPI (2.2m), Konus-Wind, Faulkes South, Gemini-South, Fermi, Gemini-North, MITSuME (50cm)	~2.7 (UVOT)|2.77 (Gemini-South: absorption)|2.77 (Gemini-North: absorption)
+081221	16:21:11	15.801	-24.542	34	181	Gemini-North, Fermi (GBM), ESO/MPI (2.2m), VLA @ 8.46 GHz	2.26 (Salvaterra)	B~25.4, I~24.5 (Keck I)
+081211B	06:15:02	168.231	53.845	n/a	6.1	Konus-Wind
+081211A	11:48:10	328.082	-33.818	3.5	1.3
+081210	20:19:34	70.485	-11.263	146	18	Sayan Observatory (1.5m), Maidanak Observatory (1.5m)
+081203B	13:57:11	228.789	44.427	23.4	21	Mt. Terskol (Z-600), Konus-Wind, VLA @ 8.46 GHz, Gemini-North, Suzaku
+081203A	13:57:11	233.071	63.514	294	77	Mt. Terskol (Z-600), Stara Lesna (0.5m), Konus-Wind, Skynet (14" GORT), Xinglong TNT, MITSuME (50cm), Murikabushi Telescope (105cm), CrAO (AZT-11), SAO RAS (6m)	2.1 (UVOT: absorption)
+081128	17:18:44	20.800	38.123	100	23	Xinglong TNT, Lulin (1m), Mt. Terskol (Z-600), Liverpool, CrAO (AZT-11), NOT
+081127	07:05:08	332.075	6.858	37	4.9
+081126	21:34:10	323.526	48.714	54	33	Mt. Terskol (Z-600), Konus-Wind, Crni Vrh Observatory (60cm), Fermi
+081121	20:35:32	89.282	-60.612	14	41	ROTSE-IIIc, ESO/MPI (2.2m), Magellan/Clay (6.5m), Fermi, CTIO (1.3m), Konus-Wind	2.512 (Magellan/Clay: aborption)
+081118	14:56:36	82.572	-43.305	67	12	VLT, MPI/ESO (2.2m), Zadko	2.58 (VLT: absorption)
+081109A	07:02:06	330.798	-54.711	190	36	REM (60cm), Fermi, ESO/MPI (2.2m), TAROT (25cm)
+081104	09:34:42	100.500	-54.722	59.1	20
+081102	17:44:39	331.178	52.991	63	23	Fermi
+081101	11:46:31	95.836	-0.112	0.20	0.62	Fermi
+081029	01:43:56	346.776	-68.179	270	21	ROTSE-IIIc, ESO/MPI (2.2m), VLT, REM (60cm), Gemini-South, PROMPT (16"), CTIO (1.3m)	3.8479 (VLT: absorption, host)|3.847 (Gemini-South: absorption)
+081028A	00:25:00	121.893	2.305	260	37	ESO/MPI (2.2m), NOT, Magellan/Clay (6.5m), Shajn Telescope, PAIRITEL (1.3m)	3.038 (Magellan/Clay: absorption)
+081025	08:22:02	245.298	60.466	23	19	Konus-Wind, Suzaku, Fermi
+081024A	05:53:0	27.891	61.352	1.8	1.2
+081022	14:23:48	226.584	12.409	160	25
+081017	23:38:12	230.209	-32.790	320	14
+081016B	19:47:14	14.582	-43.536	2.6	0.99
+081012	13:10:23	30.184	-17.627	29	11	Fermi
+081011	00:28:50	220.363	33.548	9	1.6
+081008	19:58:09	279.968	-57.433	185.5	43	ROTSE-IIIc, VLT, Gemini-South, CTIO (1.3m)	1.9685 (VLT: absorption)|1.967 (Gemini-South: absorption)	R=20.75 (Gemini-South)
+081007	05:23:52	339.963	-40.146	10.0	7.1	REM (60cm), CTIO (1.3m), Faulkes North (2m), Gemini-South (8m), RAPTOR, PROMPT (16"), VLA @ 8.46 GHz, Fermi	0.5295 (Gemini-South: absorption)
+080928	15:01:32	95.061	-55.176	280	25	ROTSE-IIIa, ESO/MPI (2.2m), Gemini-South, VLT, Watcher	1.692 (VLT: absorption)|1.69 (Gemini-South: absorption)
+080919	00:05:13	265.221	-42.375	0.6	0.72
+080916B	14:44:47	163.632	69.061	32	6.3
+080916A	09:45:20	336.289	-57.026	60	40	REM (60cm), VLT, Konus-Wind, Fermi (GBM), PROMPT (16'), ESO/MPI (2.2m), Suzaku	0.689 (VLT: absorption and emission)
+080915B	15:53:35	213.088	-11.491	3.9	9.9
+080915A	00:02:49	17.911	-76.042	14	2.3
+080913	06:46:54	65.741	-25.127	8	5.6	ESO/MPI (2.2m), VLT, Konus-Wind	6.44 (ESO/MPI: photometric)|6.7 (VLT)
+080906	13:33:16	228.055	-80.540	147	35	ESO/MPI (2.2m)	2.0 (UVOT: photometric)
+080905B	16:55:45	301.746	-62.568	128	18	VLT, Fermi (GBM), Watcher (40cm)	2.374 (VLT: absorption)
+080905A	11:58:54	287.663	-18.865	1.0	1.4	NOT, VLT, Fermi (GBM)	0.1218 (emission from host)
+080903	01:12:23	86.790	51.256	66	14	OSN (1.5m), Astrotel-Caucasus (0.3m), Liverpool, Mt. Terskol
+080822B	21:02:52	63.560	25.760	64	1.7
+080810	13:10:12	356.783	0.310	106	46	KANATA (1.5m), Keck, ROTSE-IIIa, RTT150, NOT, OSN (1.5m), Kanazawa (0.4m), Ondrejov (0.5m), Liverpool (2m), Zeiss-600, MITSuME, Faulkes North, GLAST, Konus-Wind, VLA @ 8.46 GHz, CrAO (AZT-8), La Silla (1.54m)	3.35 (Keck: absorption)|3.35 (RTT150: absorption)|3.35 (NOT: absorption)
+080805	07:41:34	314.231	-62.433	78	25	ESO/MPI (2.2m), VLT, Faulkes South	1.505 (VLT: absorption)
+080804	23:20:14	328.675	-53.189	34	36	ROTSE-IIIc, VLT, Faulkes South, Gemini-South, ESO/MPI (2.2m)	2.2045 (VLT: absorption)|2.20 (Gemini-South: absorption)
+080802	15:12:21	270.729	-32.329	176	13
+080727C	23:07:35	32.638	64.130	79.7	52	Suzaku
+080727B	08:13:24	276.871	1.173	8.6	31	KAIT (0.8m), REM (60cm), Konus-Wind, ESO/MPI (2.2m), UKIRT, VLT
+080727A	05:57:39	208.416	-18.572	4.9	1.3
+080725	10:26:14	121.699	-13.984	120	37
+080723A	04:19:24	274.461	-6.910	17.3	3.3
+080721	10:25:16	224.481	-11.709	16.2	120	Lulin (1m), Konus-Wind, TNG, NOT	2.602 (TNG: absorption)|2.591 (NOT: absorption)
+080714	17:52:56	188.104	-60.274	33	25	Konus-Wind, ESO/MPI (2.2m)
+080710	07:13:10	8.259	19.484	120	14	KAIT, REM (60cm), Gemini-South, Faulkes North (2m), PROMPT (16"), Lick (3m), TLS (1.34m), MITSuME (50cm)	0.845 (Gemini-South: absorption)
+080707	08:27:53	32.627	33.100	27.1	5.2	ESO/MPI (2.2m), VLT, Zeiss-1000	1.23 (VLT: absorption)
+080703	19:00:13	101.822	-63.211	3.4	2.0	ROTSE-IIIa, VLT
+080702B	01:10:41	355.616	-5.424	20	5.0
+080702A	11:50:43	313.049	72.278	0.5	0.36
+080701	10:13:37	45.944	75.481	18	7.1
+080623	10:25:28	237.667	-62.044	15.2	10	Suzaku
+080613B	11:12:37	173.806	-7.102	105	58	Konus-Wind
+080607	06:07:27	194.964	15.910	79	240	ROTSE-IIIb, Super-LOTIS, Keck I, PAIRITEL (1.3m), KAIT, Konus-Wind, AGILE	3.036 (Keck I)
+080605	23:47:57	262.130	4.010	20	133	Tautenburg (1.34m), Liverpool Telescope, VLT, CrAO (Zeiss-1000), ESO/MPI (2.2m), BOOTES-1B (30cm), BOOTES-2/TELMA (60cm), MITSuME (50cm), Konus-Wind	1.6398 (VLT: absorption)
+080604	07:27:01	236.960	20.557	82	8.0	Faulkes North, Gemini-North, MITSuME (50cm), Xinglong (2.16m)	1.416 (Gemini-North: absorption)
+080603B	19:38:13	176.554	68.061	60	24	ROTSE-IIId, Super-LOTIS (0.6m), TAROT (25cm), BOOTES-2/TELMA (60cm), NOT, RTT150, Konus-Wind, Liverpool, Xinglong EST, Hobby-Eberly, TLS (1.34m), PAIRITEL (1.3m), Sayan (1.5m), AZT-11 (Nauchny), AZT-22 (Maidanak)	2.69 (NOT)|2.69 (Hobby-Eberly: absorption)
+080602	01:30:28	19.177	-9.239	74	32	Konus-Wind
+080524	04:13:00	268.449	80.143	9	2.9
+080523	21:21:51	20.769	-64.060	102	8.8	VLT
+080520	22:20:24	280.179	-54.964	2.8	0.55	MPI/ESO (2.2m), VLT	1.545 (VLT: emission)	VLT detection
+080517	21:22:51	102.274	50.741	64.6	5.6
+080516	00:17:07	120.661	-26.146	5.8	2.6	MPI/ESO (2.2m)	3.2 (MPI/ESO: photometric)
+080515	06:01:13	3.166	32.564	21	20	Kitt Peak (4m)
+080506	17:46:21	329.467	38.961	150	13	KANATA (1.5m), Tautenburg (1.34m), ASU Ondrejov (0.5m), NOT (2.5m), Himalayan Chandra Telescope (2m), NAYUTA (2.0m)
+080503	12:26:13	286.686	68.803	170	20	Gemini-North, HST, Chandra
+080430	19:53:02	165.331	51.682	16.2	12	TAROT, BOOTES-1 (0.3m), Calar Alto (2.2m), AsU CAS Ondrejov (0.5m), Nicholas Copernicus Observatory (0.4m), Hobby-Eberly, Zeiss-600 (Mt.Terskol), AAVSO, NOT (2.5m), RTT150, OSN (1.5m), NainiTal (1.04m), Observatoire Chante-Perdix (0.5m), TLS, Vallauris (0.28m), Bologna Observatory (152cm)	~0.75 (Calar Alto: absorption, probable)|0.767 (Hobby-Eberly: absorption)
+080426	13:23:22	26.510	69.469	1.7	3.7
+080413B	08:51:12	326.138	-19.981	8.0	32	ESO/MPI (2.2m), REM (60cm), VLT, Gemini-South, Suzaku, Faulkes South (2m), PROMPT (16")	1.10 (VLT: absorption)|1.10 (Gemini-South: absorption)
+080413A	02:54:19	287.301	-27.677	46	35	ROTSE-IIIc, TAROT (25cm), REM (60cm), VLT, BOOTES-1 (0.3m), CTIO (1.3m), Gemini-South, Mt. John Observatory (1.8m), Suzaku	2.433 (VLT: absorption)|2.43 (Gemini-South: absorption)
+080411	21:15:32	37.961	-71.297	56	264	ESO/MPI (2.2m), VLT, Konus-Wind	1.03 (VLT: absorption)
+080409	01:22:57	84.304	5.078	20.2	6.1
+080330	03:41:16	169.278	30.607	61	3.4	TAROT, ROTSE-IIIb, Liverpool (2m), PAIRITEL, NOT, ESO/MPI (2.2m), Mt. Lemmon (1.0m), Hobby-Eberly, TNT, CTIO (1.3m), REM (60cm), Mt.Terskol (Zeiss-2m), SAO RAS (1m), PROMPT (16"), RAPTOR, AAVSO	1.51 (NOT: absorption)|1.51 (Hobby-Eberly: absorption)
+080328	08:03:04	80.490	47.523	90.6	94	Faulkes North (2m), BTA (6.0m), Konus-Wind, Suzaku
+080325	04:09:17	277.906	36.516	128.4	49	Subaru		Ks=19.5 (Subaru)
+080320	04:37:38	177.763	57.162	14	2.7	Gemini-North, Kitt Peak (2.1m)
+080319D	17:05:09	99.479	23.982	24	3.2	ESO/MPI (2.2m)
+080319C	12:25:56	259.006	55.393	34	36	KAIT, Super-LOTIS (0.6m), INTEGRAL, AGILE, RAPTOR, Konus-Wind, Suzaku, Gemini-North	1.95 (Gemini-North: absorption)
+080319B	06:12:49	217.919	36.300	>50	810	KAIT, REM (60cm), Super-LOTIS (0.6m), Liverpool (2m),  PAIRITEL, Mt. Lemmon (1m), Gemini-South, Pi-of-the-Sky, VLT Kueyen, INTEGRAL, Hobby-Eberly, PROMPT (16"), RAPTOR, Mercator Telescope (1.2m), IAC80 (0.8m), ROTSE-IIIb, Lulin (1m), Konus-Wind, AAVSO, Nicholas Copernicus Observatory (40cm), VLA @ 4.86 GHz, Spitzer, Kharkiv (0.7m), HST, Gemini-North	0.937 (VLT Kueyen: absorption)|0.937 (Hobby-Eberly: absorption)
+080319A	05:45:42	206.352	44.080	64	48	Palomar (60"), NOT, INTEGRAL, Liverpool
+080315	02:25:01	155.124	41.701	65	1.4
+080310	08:37:58	220.040	-0.164	365	23	KAIT, Magellan/Clay (6.5m), CTIO (1.3m), REM (60cm), Super-LOTIS (0.6m), Lick, LBT, VLT-Kueyen, VLT-Antu, Lulin, Keck, RAPTOR, PAIRITEL, MITSuME (50cm), ROTSE-III, Mt. Lemmon (1m), Lulin (1m), GAO 150cm, MDM (2.4m)	2.4266 (Lick: absorption)|2.42 (Magellan: absorption)|2.43 (VLT-Kueyen: absorption)|2.4266 (Keck: absorption)
+080307	11:23:30	136.629	35.151	125.9	8.7	TNT (0.8m), Gemini North
+080303	09:10:35	112.019	-70.231	67	6.6	REM (60cm), Mt John Observatory (1.0m), Faulkes South (2m), PROMPT (16")
+080229A	17:04:59	228.220	-14.697	64	90	MITSuME (50cm), VLA @ 8.46 GHz
+080218B	23:57:47	177.927	-53.086	6.2	5.1
+080218A	20:08:42	355.941	12.159	27.6	6.3
+080212	17:34:33	231.145	-22.739	123	29	REM (60cm), MPI/ESO (2.2m), Gemini South, MITSuME (50cm), Mt. Abu (1.2m), VLT
+080210	07:50:05	251.259	13.826	45	18	TAROT (25cm), MPI/ESO(2.2m), PROMPT (16"), VLT, Super-LOTIS (0.6m), Hobby-Eberly Telescope, Keck I, Sayan (1.5m)	2.641 (VLT: absorption)|2.64 (Hobby-Eberly: absorption)
+080207	21:30:21	207.514	7.492	340	61		2.0858 (TOUGH: emission)
+080205	07:55:51	98.261	62.782	106.5	21	KAIT (0.76m), Isaac Newton Telescope, RTT150, CrAO Shajn (2.6m)
+080130	11:13:59	261.632	-53.190	65	7.7
+080129	06:06:45	105.297	-7.840	48	8.9	Gemini South, MPI/ESO (2.2m)
+080123	04:21:57	338.974	-64.930	115	5.7	Suzaku
+080121	21:29:55	137.235	41.841	0.7	0.3
+071227	20:13:47	58.132	-55.959	1.8	2.2	Konus-Wind, VLT, Suzaku	0.383 (VLT: emission, host redshift)|0.384 (Magellan: emission, host redshift)	Possible Host: edge-on spiral, R=19.3
+071129	00:03:55	220.039	-26.667	420	35
+071122	01:23:25	276.576	47.102	68.7	5.8	Palomar (60"), Gemini North, VLA @ 8.46 GHz	1.14 (Gemini North: absorption)
+071118	08:57:17	299.839	70.130	71	5.0	Sierra Nevada Observatory (1.5m), MITSuME (50cm)
+071117	14:50:06	335.026	-63.442	6.6	24	Gemini, TAROT, Konus-Wind, VLT	1.331 (VLT: emission)
+071112C	18:32:57	39.218	28.368	15	30	ROTSE-IIIc, KANATA (1.5m), TNT (0.8m), EST (1.0m), TAROT (25cm), RTT150, Lulin (1m), NOT, VLT, Crni Vrh (60cm), MITSuME (50cm), Gemini North, Cassini (152cm), AAVSO, MAGNUM, TAOS	0.8230 (VLT: absorption)|0.823 (Gemini North: absorption)
+071112B	18:23:31	260.213	-80.884	0.30	0.48
+071101	17:53:46	48.179	62.524	9.0	0.76
+071031	01:06:36	6.399	-58.048	180	9.0	MPI/ESO (2.2m), PROMPT (16"), VLT, CTIO (1.3m)	2.692 (VLT)
+071028B	02:43:46	354.163	-31.630	55	2.5		0.94 (Paranal: host, photometric)
+071028A	17:41:01	119.828	21.473	27.0	3.0
+071025	04:08:54	355.065	31.784	109	65	ROTSE-III, REM, PAIRITEL, Mt. Lemmon (1.0m), Super-LOTIS (0.6m), Kitt Peak Mayall (4m), Raptor, Kuiper (1.54m), MAGNUM
+071021	09:41:33	340.573	23.764	225	13	TNG (3.5m), NOT (2.5m), OSN(1.5m), VLT (8.5m), Subaru, CFHT	2.4520 (TOUGH: emission)
+071020	07:02:26	119.666	32.857	4.2	23	ROTSE-IIIb, VLT, PAIRITEL (1.3m), TNT (0.8m), Mt. Lemmon (1.0m), Konus-Wind, VLA @ 8.46 GHz, SARA (0.9m), Taurus Hill Observatory (0.3m), BTA (6.0m), MITSuME (50cm), CrAO (AZT-8)	>2.145 (VLT: absorption)|2.142 (BTA: absorption)
+071018	08:37:41	164.685	53.822	376.0	10
+071013	12:09:19	279.501	33.846	26	3.2
+071011	12:40:13	8.395	61.132	61	0.22	Palomar (60"), Keck I, NainiTal (1.04m), NAYUTA (2m), TNT (80cm), EST (1m), MITSuME (50cm)
+071010C	22:20:22	338.054	66.159	n/a	n/a
+071010B	20:45:47	150.531	45.733	>35.7	44	Hankasalmi Observatory (0.4m), Konus-Wind, TLS (1.34m), Gemini North, Mt. Lemmon (1m), VLA @ 8.46 GHz, Keck I, EST (1m), Keck II, Suzaku, Sayan Observatory (1.5m), CrAO, TAOS (0.5m)	0.947 (Gemini North: absorption)|0.947 (Keck I: absorption)|0.947 (Keck II: absorption)
+071010A	03:41:12	288.040	-32.385	6	2.0	TAROT (25cm), Keck I, PROMPT (16"), REM (60"), TNG, NainiTal (1.04m)	0.98 (Keck I: absorption)
+071008	21:55:56	151.571	44.303	18	2.4
+071006	06:41:40	335.294	-23.147	50	1.4	Konus-Wind
+071003	07:40:55	301.857	10.954	150	83	KAIT (0.76m), Palomar (60"), Sampurnanand (1.04m),  AEOS, Keck I, Faulkes North (2m), Konus-Wind, VLT, VLA @ 8.46 GHz, Keck II	1.100 (Keck I: absorption)|>0.937 (VLT: absorption)
+071001	16:31:48	149.707	-59.763	58.5	7.7
+070923	19:15:23	184.623	-38.294	0.05	0.5
+070920B	21:04:32	0.127	-34.844	20.2	6.6
+070920A	04:00:13	100.968	72.250	56	5.1
+070917	07:33:56	293.923	2.420	7.3	20	Konus-Wind, Palomar 60", NOT, Suzaku
+070913	00:36:43	228.737	-24.278	3.2	2.5	TAROT
+070911	05:57:44	25.819	-33.484	162	120	Suzaku, CTIO (1.3m)
+070810B	15:19:17	8.952	8.822	0.08	0.12
+070810A	02:11:52	189.947	10.747	11.0	6.9	ROTSE-IIIb, Keck I	2.17 (Keck I: absorption)
+070809	19:22:17	203.767	-22.119	1.3	1.0	Keck I
+070808	18:28:00	6.761	1.180	32	12
+070805	19:55:45	245.057	-59.957	31.0	7.2
+070802	07:07:25	36.903	-55.517	16.4	2.8	La Silla Observatory (2.2m), LCO, VLT	2.45 (VLT)
+070731	09:33:22	328.581	-15.740	2.9	1.6
+070729	00:25:53	56.296	-39.330	0.9	1.0	Konus-A		Ks ~ 18.2, possible host (Magellan)
+070724A	10:53:50	27.824	-18.610	0.4	0.3		0.457 (Gemini South: emission, from host)|0.457 (VLT: emission, from host)	proposed host from DSS also detected with UKIRT, Palomar 60", Gemini South, & VLT
+070721B	10:33:48	33.128	-2.198	340	36	VLT, NOT	proposed redshift 3.626 (VLT)
+070721A	10:01:08	3.144	-28.530	3.4	0.71
+070714B	04:59:29	57.853	28.294	64	7.2	Liverpool (2m), WHT, TNG, Suzaku, Keck I	0.92 (Gemini: emission, from host)
+070714A	03:20:31	42.933	30.241	2.0	1.5
+070704	20:05:57	354.707	66.257	380	59	Suzaku
+070628	14:41:02	115.271	-20.281	39.1	35	Max-Planck Institute (2.2m)
+070621	23:17:39	323.806	-24.809	33.3	43	NOT, Gemini South, WHT, Keck II, VLT
+070616	16:29:34	32.096	56.946	402.400	192.00	BTA (6m), Suzaku
+070612B	06:21:18	261.716	-8.747	13.500	16.80
+070612A	02:38:46	121.355	37.258	368.800	106.00	SARA (0.9m), Palomar (60"), MDM, MITSuME (50cm), Suzaku, Super-LOTIS (0.6m), Westerbork @ 4.9 GHz, NOT, Gemini North, Calar Alto (2.2m), VLA @ 4.88 GHz	0.617 (Gemini North: emission)
+070611	01:57:14	2.004	-29.756	12.200	3.91	ROTSE-III, VLT, Watcher (40cm)	2.04 (VLT)
+070531	02:10:18	6.714	74.315	44.500	10.80
+070529	12:48:28	283.717	20.648	109.200	25.70	Gemini North, MIRO (1.2m), AEOS	2.4996 (Gemini North: absorption)
+070521	06:51:11	242.659	30.260	37.900	80.10	Subaru, Gemini North, Keck I, Konus-Wind	0.553 (Subaru: emission)	possible host:|z'~23.5 (Subaru)|i'~24.1, Ks~22.3 (Gemini North)|3 candidates (Keck I)
+070520B	17:44:53	121.886	57.588	65.800	9.25
+070520A	13:05:10	193.255	75.005	18.100	2.50
+070518	14:26:21	254.219	55.289	5.500	1.62	TNT (0.8m), EST (1m), OSN (1.5m), TNG, MAGNUM, Bologna Observatory (1.52cm), AEOS, LBT (8.4m)
+070517	11:20:58	277.556	-62.305	7.600	2.15
+070509	02:48:27	237.874	-78.657	7.700	1.75
+070508	04:18:18	312.832	-78.382	20.900	196.00	REM (60cm), Magellan/Clay (6.5m), La Silla (Danish 1.54m), CTIO (1.3m), Suzaku, RHESSI, Konus-Wind	0.82 (VLT: emission, tentative)
+070506	05:35:58	347.203	10.711	4.300	2.10	VLT	2.31 (VLT: absorption)
+070429B	03:09:04	328.006	-38.857	0.470	0.63		0.904 (Keck I: from probable host)	r=23.18, possible host (Gemini South)|2 host candidates (VLT)|g=24.79,R=23.24, probable host (Keck I)
+070429A	01:35:10	297.695	-32.420	163.300	9.10	WHT (4.2m), Gemini North
+070427	08:31:09	28.871	-27.603	11.100	7.20
+070420	06:18:14	121.245	-45.564	76.500	140.00	REM (60cm), TAROT (25cm), Faulkes South (2m), B&C (0.6m), Konus-Wind, CTIO (1.3m)
+070419B	10:44:06	315.709	-31.266	236.400	73.60	B&C Telescope (0.6m), ANU (1m), Suzaku
+070419A	09:59:26	182.755	39.903	115.600	5.58	KAIT, Palomar (60"), Kiso (1.05m), UKIRT, Lulin (1m), Faulkes North (2m), NAYUTA (2m), SARA (0.9m), Keck I (10m), RAPTOR, Super-LOTIS (0.6m), MITSuME (50cm), AEOS, Kuiper (1.54m), LBT, Maidanak (1.5m)	0.97 (Keck I: absorption)
+070412	01:27:03	181.525	40.133	33.800	4.84			Keck I: I=24.6, potential host
+070411	20:12:33	107.342	1.061	121.500	27.00	Tautenburg (1.34m), ROTSE-IIIc, Crni Vrh Observatory (60cm), Liverpool (2m), IAC80, Magellan/Baade, Magellan/Clay, VLT, LBT, Keck I	2.954 (VLT: absorption)
+070406	00:50:39	198.956	16.530	1.200	0.36
+070330	22:51:31	269.533	-63.799	9.000	1.83
+070328	03:53:53	65.113	-34.079	75.300	90.60	Konus-Wind, Suzaku
+070326	16:29:12	40.337	-66.989	n/a	3.45
+070318	07:28:56	48.486	-42.950	74.600	24.80	VLT, Gemini South, Magellan Baade, CTIO (1.3m)	0.836 (VLT: absorption)|0.840 (Gemini/Magellan: absorption)
+070306	16:41:28	148.154	10.440	209.500	53.80	WHT (4.2m), NOT, VLT	possible redshift:|1.497 (VLT: emission)
+070227	22:21:59	120.578	-46.302	7	16.20
+070224	20:27:58	178.988	-13.355	34.500	3.05	NOT, Gemini South, MDM, WHT, Magellan
+070223	01:15:01	153.453	43.132	88.500	17.00	WHT (4.2m)
+070220	04:44:33	34.800	68.800	129.000	104.00	Konus-Wind, RHESSI
+070219	01:10:16	260.220	69.345	16.600	3.19
+070209	03:33:42	46.213	-47.376	0.090	0.22
+070208	09:10:34	197.891	61.942	47.700	4.45	Faulkes North (2m), Palomar (60"), PAIRITEL, MDM (1.3m), Gemini-North, RAPTOR, AEOS, Sayan (1.5m)	1.165 (Gemini-North: emission)	Potential host galaxies (MDM)
+070129	23:35:10	36.995	11.728	460.600	29.80	VLT, MDM (2.4m)	2.3384 (TOUGH: emission)
+070126	02:33:26	33.503	-73.553	51	1.63			possible host (VLT, UVOT)
+070110	07:22:42	0.934	-52.978	88.400	16.20	VLT	2.352 (VLT: absorption)
+070107	12:05:18	159.422	-53.202	347.300	51.70	Suzaku
+070103	20:46:39	352.581	26.823	18.600	3.38		2.6208 (TOUGH: emission)
+061222B	04:11:02	105.353	-25.866	40.000	22.40	Magellan, TAROT (25cm), CTIO (1.3m), REM (60cm), BOOTES-IR (60cm)	3.355 (Magellan: absorption)
+061222A	03:28:52	358.254	46.524	71.400	79.90	Gemini-North, Konus-Wind, VLA @ 8.46 GHz	2.088 (Perley)
+061218	04:05:06	149.260	-35.217	6.500	0.41
+061217	03:40:08	160.403	-21.152	0.210	0.42		0.827 (Magellan: emission)	R-band (Magellan, Calar Alto)
+061210	12:20:39	144.521	15.613	85.300	11.10	Suzaku	0.41 possible host redshift (Keck: emission)	possible host (Gemini, MDM, Keck)
+061202	08:11:45	105.255	-74.602	91.200	34.20	Suzaku
+061201	15:58:37	332.079	-74.568	0.760	3.34	VLT, Konus-Wind, SOAR	0.111 (Magellan, from probable host)	UVOT: likely host galaxy detection|Magellan: probable host galaxy
+061126	08:47:56	86.615	64.204	70.800	67.70	Faulkes North (2m), PAIRITEL, SARA (0.9m), MIRO (1.2m), Tautenburg (1.34m), RHESSI, New Mexico Skies (0.3m), Super-LOTIS (0.6m), RAPTOR, Isaac Newton (2.5m), NMSU (1m), Maidanak (1.5m), Sampurnanand (1.0m), INTEGRAL
+061121	15:22:29	147.228	-13.188	81.300	137.00	Keck I, ROTSE-IIIa, Faulkes North (2m), KANATA (1.5m), Konus-Wind, RHESSI, MDM (2.4m), VLA @ 8.46 GHz, Palomar (60"), ART-3a (14"), Shajn (2.6m), NOT, SMARTS (1.3m)	1.314 (Keck I: absorption)	Likely host (NOT)|V=22.4, I=21.9 (SMARTS)
+061110B	21:58:46	323.912	6.872	134.000	13.30	Liverpool (2m), NOT, VLT	3.44 (VLT)
+061110A	11:47:21	336.284	-2.252	40.700	10.60	Lulin (1-m), TNT (0.8m), NOT, VLT	0.758 (VLT: emission)
+061102	01:00:31	148.394	-17.022	45.600	2.79
+061028	01:26:22	97.193	46.290	106.200	9.66
+061027	10:15:02	270.992	-82.239	150	2.97
+061021	15:39:08	145.146	-21.953	46.200	29.60	VLT, Konus-Wind	0.3463 (Fynbo)
+061019	04:19:07	91.675	29.527	183.800	25.90	REM (60cm), CTIO (1.3m), Shajn (2.6m)
+061007	10:08:09	46.299	-50.496	75.300	444.00	ROTSE-IIIa, Faulkes South (2m), Magellan Clay, VLT, Konus-Wind, Suzaku, RHESSI	1.261 (Magellan Clay: absorption)|1.262 (VLT: absorption)
+061006	16:45:51	110.998	-79.195	129.900	14.20	RHESSI, Konus-Wind, Suzaku, VLT
+061004	19:50:31	97.795	-45.903	6.200	5.66
+061002	01:03:30	220.356	48.726	17.600	6.77
+060929	19:55:01	263.148	29.825	554.000	8.30	GAO (150cm)
+060927	14:07:35	329.547	5.370	22.500	11.30	ROTSE-IIIa, ART-3a (14"), MASTER, Faulkes South (2m), Kiso (1.05m), TNT (0.8m), AZT-11 (1.25m), VLT	5.6 (VLT: absorption)
+060926	16:48:42	263.926	13.039	8.000	2.19	Skinakas (1.3m), RTT150, MASTER, VLT	3.208 (VLT: absorption)
+060923C	13:33:03	346.122	3.943	75.800	15.80	VLT, Gemini-North
+060923B	11:38:06	238.193	-30.907	8.600	4.80
+060923A	05:12:15	254.623	12.341	51.700	8.69	UKIRT, Keck-I, Gemini-North		Probable host, R~25.5 (VLT)
+060919	07:48:39	276.900	-50.994	9.100	5.46
+060912A	13:55:54	5.285	20.971	5.000	13.50	TNT (0.8m), Skinakas (1.3m), Maidanak (1.5m), Konus-Wind, MAGIC, VLT	probably host redshift:|0.937 (VLT: emission)	probable host (VLT)
+060908	08:57:22	31.828	0.335	19.300	28.00	PROMPT, REM (60cm), Danish (1.5m), Gemini-North, Terskol Observatory (2m)	1.8836 (Fynbo)	Possible host, V=24.9, R=25.12 (NOT)
+060906	08:32:47	40.709	30.362	43.500	22.10	Palomar (60"), KAIT (0.76m), VLT, New Mexico Skies Observatory (0.3m)	3.685 (VLT: absorption)
+060904B	02:31:04	58.218	-0.729	171.500	16.20	TAROT (25cm), Watcher (0.4m), Crni Vrh (60cm), VLT, RTT150 (1.5m), CTIO (1.3m), Cassini (152cm), Skinakas Observatory (1.3m), Kiso (1.05m), CFHT/WIRCam, Maidanak (1.5m)	0.703 (VLT: absorption)
+060904A	01:03:21	237.731	44.984	80.100	77.20	ROTSE-IIIc, BOOTES-IR (0.6m), OSN (1.5m), Konus-Wind, Subaru (8.2m), Suzaku
+060825	02:59:58	18.132	55.796	8.000	9.63	BOOTES-IR (0.6m), Palomar (60")
+060814	23:02:19	221.338	20.591	145.300	146.00	UKIRT, VLT, Palomar Hale (200"), Palomar (60"), Konus-Wind, Suzaku	0.84 (Keck I: emission, from host)	Possible host: R & I (VLT), Ks ~ 18.2 (Palomar Hale), I & V (Keck I)
+060813	22:50:23	111.890	-29.844	16.100	54.60	Konus-Wind, Suzaku
+060807	14:41:35	252.520	31.591	54.000	8.48	NOT, NTT, VLT		Possible host, V=24.9, R=24.26, i=22.1 (NOT)
+060805A	04:47:49	220.928	12.580	5.300	0.72
+060804	07:28:20	112.219	-27.225	17.800	5.98
+060801	12:16:15	212.989	16.988	0.490	0.80	Hanle (2.0m), CAHA (3.5m), VLT
+060729	19:12:29	95.287	-62.221	115.300	26.10	ROTSE-IIIa, VLT, Gemini South, CTIO (1.3m), XMM-Newton	0.54 (VLT, Gemini South: absorption)
+060728	22:24:31	16.644	-41.390	60	2.29
+060719	06:50:37	18.420	-48.381	66.900	15.00	Las Campanas (20"), VLT	1.5320 (TOUGH: emission)
+060717	09:07:39	170.857	28.982	3.000	0.65
+060714	15:12:00	227.855	-6.544	115.000	28.30	Skinakas Observatory (1.3m), Shajn (2.6m), Maidanak (1.5m), VLT, CTIO (1.3m), NOT	2.71 (VLT: absorption)	NOT: possible host
+060712	21:07:44	184.067	35.540	26.300	12.40
+060708	12:15:59	7.831	-33.751	10.200	4.94	AEOS (3.63m), VLT	Z<2.3 (VLT)
+060707	21:30:19	357.069	-17.904	66.200	16.00	BOOTES-IR (0.6m), Skinakas Observatory (1.3m), VLT	3.43 (VLT: absorption)
+060614	12:43:49	320.877	-53.027	108.700	204.00	Watcher (0.4m), Siding Spring Observatory (1m), CTIO (1.3m), VLT-UT1, Konus-Wind, VLT-UT2, La Silla (Danish 1.54m), Gemini South	0.13 (Gemini: emission)|0.125 (VLT: emission)	R-band (Danish 1.54m)|I = 21.9 (SMARTS)
+060607B	23:32:44	42.043	14.755	31.100	16.40
+060607A	05:12:13	329.705	-22.496	102.200	25.50	REM (60cm), PROMPT, VLT	3.082 (VLT: absorption)
+060605	18:15:45	322.128	-6.071	79.100	6.97	ROTSE-III, ANU (2.3m), RTT150, TNG (3.6m), SALT (10m), TNT (0.8m), VATT, NOT, Calar Alto (3.5m)	3.8 (ANU: absorption)|3.7 (SALT: absorption)|3.78 (Calar Alto)
+060604	18:19:00	337.224	-10.945	95.000	4.02	WHT, NOT (2.5m), VATT	2.1357 (TOUGH: emission)
+060602A	21:32:12	149.579	0.314	75.000	16.10	NOT	0.787 (VLT: emission, probable)
+060526	16:28:30	232.834	0.288	298.200	12.60	Watcher (40cm), ROTSE-III, TNG (3.5m), Lulin (1m), Magellan, Loiano (152cm), RTT150, MDM (2.4m), MDM (1.3m), La Silla (Danish 1.5m), CTIO (1.3m), Shajn (2.6m), Tautenburg (1.34m), Maidanak (1.5m), Mt Abu IR Observatory(1.2m), Cassini (152cm)	3.21 (Magellan: absorption)
+060522	02:11:19	322.954	2.895	71.100	11.40	TNG (3.6m), Keck I (10m), Palomar Hale (5m)	5.11 (Keck I: absorption)
+060516	06:43:35	71.170	-18.126	161.600	10.20
+060515	02:27:53	127.277	73.561	52.000	14.10	TAROT (25cm)
+060512	23:13:21	195.748	41.209	8.500	2.32	Liverpool (2m), TNG (3.6m), Palomar (60"), ARC (3.5m), Kuiper (1.54m), Subaru (8.2m), VLT, TAROT (25cm), Keck I, NOT	0.4428 (Keck I: emission)	Possible host (Palomar, Keck I)
+060510B	08:22:15	239.259	78.591	275.200	40.70	MDM (1.3m), Gemini North, Faulkes North (2m), XMM-Newton	4.9 (Gemini)
+060510A	07:43:28	95.860	-1.163	20.400	80.50	CTIO (1.3m), Konus-Wind
+060507	01:53:12	89.911	75.250	183.300	44.50	NOT
+060505	06:36:01	331.772	-27.815	~4	9.44	Gemini South	0.089 (Gemini: emission)	2dFGRS S173Z112 (Gemini)|R-band (VLT)
+060502B	17:24:41	278.927	52.618	0.131	0.40	MDM (1.3m), Gemini	0.287 (Keck I-candidate: absorption)	R~23.8 (Gemini: candidate)|R~23.9 (MDM: candidate)|bright early-type (Keck I: candidate)
+060502A	03:03:32	240.937	66.604	28.400	23.10	Palomar (60"), APO (3.5), Gemini, FLWO (1.2m), NOT (2.56m)	~1.51 (Gemini: absorption)
+060501	08:14:59	328.374	44.002	21.900	12.20
+060428B	08:54:39	235.369	62.016	57.900	8.23	MAGNUM, KAIT (0.76m), MDM (1.3m), Shajn (2.6m)
+060428A	03:22:48	123.540	-37.167	39.500	13.90
+060427	11:43:11	124.177	62.657	64.000	4.99
+060424	04:16:20	7.359	36.787	37.500	6.76	NOT, ALFOSC
+060421	00:39:23	343.629	62.730	12.200	12.50
+060418	03:06:08	236.431	-3.640	103.100	83.30	REM (60cm), Liverpool (2m), Magellan, SMARTS (1.3m), PROMPT, VLT, FRAM, AAVSO, PAIRITEL (1.3m), Lulin (1m), CFHT/WIRCam, Konus-Wind, Maidanak (1.5m)	1.490 (Magellan: absorption)|1.489 (VLT: absorption)
+060413	18:40:23	291.287	13.746	147.700	35.60
+060403	13:12:17	282.338	8.327	30.100	13.50
+060323	14:32:36	174.421	50.000	25.400	6.22	TNG (3.6m), Tautenburg (1.34m), NOT (2.56m), Xinglong (0.8m)
+060322	23:00:21	274.230	-36.710	221.500	52.20
+060319	00:55:43	176.379	60.038	10.600	2.64	WHT
+060313	00:12:06	66.625	-10.858	0.740	11.30	VLT, SMARTS, La Silla (Danish 1.5m), Gemini, PROMPT,  Konus-Wind
+060312	01:36:13	45.780	12.827	50.600	19.70
+060306	00:49:11	41.097	-2.163	61.200	21.30
+060223B	19:41:05	254.238	-30.812	10.300	16.00
+060223A	06:04:24	55.186	-17.134	11.300	6.73	Keck	4.41 (Keck: absorption)
+060219	22:48:05	241.851	32.309	62.100	4.28
+060218	03:34:31	50.380	16.910	~2100	15.70	ROTSE-IIIb, MDM (2.4m), La Palma, VLA @ 8.46 GHz, Xinglong (0.8m, 1m), VLT, Gemini, TNG (3.6m), BTA (6.0m), La Silla (Danish 1.5m, REM 60cm), RBO, WIRO (2.3m), ABT (0.25m), CrAO (70cm, K-380, 2.6m), CTIO (1.3m), Terskol (60cm), N. Copernicus (40cm), RTT150, XMM-Newton, SARA (0.9m), FLWO (1.2m), IAG-USP (60cm), Maidanak (1.5m), Loiano (152cm), Rozhen Observatory (2m), Keck I	0.0331 (MDM: emission)|0.033 (VLT: emission)|0.033 (Gemini: emission)|0.033 (BTA: emission)|0.033 (Keck I: emission)	SDSS (possible host)
+060211B	15:55:15	75.085	14.959	27.700	4.38
+060211A	09:39:11	58.381	21.489	126.300	15.70
+060210	04:58:50	57.727	27.015	255.000	76.60	Palomar (60"), KAIT, Faulkes North (2m), Gemini, Super-LOTIS (0.6m), ARIES (1m), ARC (3.5m)	3.91 (Gemini: absoption)	Possible host: ARC
+060206	04:46:53	202.933	35.046	7.600	8.31	NOT, RAPTOR, SARA, KAIT, Palomar (60"), Liverpool (2m), Lulin (0.4m & 1.0m), Super-LOTIS (0.6m), Lick (3m), PAIRITEL, Subaru (8.2m), Asiago, PROMPT, Loiano (1.52m), SOAR (4.1m), Maidanak (1.5m)	4.045 (NOT: absorption)|4.048 (Lick: absorption)|4.05 (Subaru: absorption)
+060204B	14:34:24	211.805	27.675	139.400	29.50	Faulkes North (2m), Keck I, NOT
+060203	23:55:35	103.463	71.841	68.200	8.98	Asiago, Palomar (60"), PAIRITEL, RTT150, WHT
+060202	08:40:55	35.809	38.377	198.900	21.30	Keck, UKIRT, Gemini
+060124	15:54:52	77.097	69.727	~750	4.61	Tautenburg (1.34m), Asiago (1.82m), Xinglong (0.8m), Kiso, ARIES (104cm), MDM, Keck, Himalayan Chandra Telescope (2m), Konus-Wind, HETE, CrAO, Shajn (2.6m)	2.30 (MDM: absorption)|2.297 (Keck/ESI: absorption)|2.296 (Keck/LRIS: absorption)
+060123	22:22:40	179.750	45.513	900	3.0	Gemini	1.099 (probable, Gemini: emission)
+060117	06:50:02	327.912	-59.982	16.900	202.00	FRAM, Konus-Wind, Suzaku
+060116	08:37:27	84.698	-5.438	105.900	24.10	UKIRT, NTT, VLT, MARGE, VLA @ 8.46 GHz, HST	~4.0 or ~6.6 (VLT: photometric)
+060115	13:08:01	54.007	17.339	139.600	17.10	MITSuME, VLT	3.53 (VLT: absoprtion)
+060111B	20:15:43	286.456	70.380	58.800	16.00	ROTSE-III, TAROT, MITSuME (50cm), Suzaku
+060111A	04:23:06	276.193	37.600	13.200	12.00	RTT150 (marginal)
+060110	08:01:18	72.737	28.428	26.000	15.70	PAIRITEL, ROTSE-III, UKIRT, RAPTOR, AEOS, KAIT
+060109	16:54:41	282.735	32.011	115.400	6.55
+060108	14:39:12	147.013	31.935	14.300	3.69	Suzaku, VLT, Faulkes North (2m), UKIRT	2.03 (Liverpool: photometric)
+060105	06:49:27	297.485	46.356	54.400	176.00	Konus-Wind, Suzaku
+060102	21:17:28	328.839	-1.837	19.000	2.34
+051227	18:07:16	125.231	31.949	114.600	6.99	HETE, VLT, Magellan, Gemini
+051221B	20:03:20	312.378	53.041	39.900	9.17	MDM (1.3m)
+051221A	01:51:16	328.715	16.888	1.400	11.50	PAIRITEL, Gemini, RAPTOR, Chandra, MDM (1.3m), Suzaku (WAM), Konus-Wind, VLA @ 8.5 GHz, Maidanak	0.547 (Gemini: emission)
+051213	07:13:04	252.084	-59.233	71.100	7.82
+051210	05:46:21	330.192	-57.622	1.300	0.85	Magellan
+051117B	13:22:54	85.205	-19.286	9.000	1.77		0.481 (TOUGH: emission)	Possible host (R=21.0)|R=21.0, I=20.4, V=21.8, B=22.5
+051117A	10:51:20	228.398	30.868	136.300	43.40
+051114	04:11:28	226.290	60.154	2.2	1.28
+051113	15:22:35	187.242	-26.395	93.300	25.60
+051111	05:59:41	348.136	18.367	46.100	40.80	ROTSE-IIIb, Faulkes North (2m), Super-LOTIS (0.6m), New Mexico Skies Observatory (0.3m), KAIT (0.76m), Keck, PAIRITEL, SARA, Lulin (1m), AEOS, VLA @ 8.5 GHz, Loiano Telescope (152cm), Suzaku, Maidanak (1.5m)	1.549 (Keck: absorption)
+051109B	08:39:39	345.469	38.663	14.300	2.56	Keck I	0.080 (Keck I: emission)	Barred spiral, type SBa (Keck I)
+051109A	01:12:21	330.316	40.850	37.200	22.00	ROTSE-IIIb, PAIRITEL, MDM (2.4m), Super-LOTIS (0.6m), New Mexico Skies Observatory (0.3m), PROMPT, HET (9.2m), BOOTES-1B, Lulin (1m), Konus-Wind, RAPTOR, KAIT (0.76m), VLA @ 8.5 GHz, Sampurnanand (1m), CrAO (0.38m), Gunma Astronomical Observatory (150cm)	2.346 (HET: absorption)
+051105A	06:26:41	265.279	34.916	0.093	0.22
+051021B	23:31:54	126.059	-45.534	46.500	8.35
+051016B	18:28:09	132.123	13.629	4.000	1.70	Lulin (1m), Gemini, Maidanak (1.5m)	0.9364 (Keck: emission)	V=23.1
+051016A	05:23:31	122.814	-18.299	23.000	8.37	XMM-Newton
+051012	17:05:54	270.513	-52.799	13	3.04
+051008	16:33:21	202.865	42.103	>32	50.90	Konus-Wind, CrAO, Suzaku
+051006	20:30:33	110.807	9.510	34.800	13.40		1.059 (TOUGH: emission)	R=23.0, I=22.2, V=23.3, B=24.2
+051001	11:11:36	350.984	-31.515	189.100	17.40		2.4296 (TOUGH: emission)
+050925	09:04:34	303.490	34.329	0.070	0.76
+050922C	19:55:50	317.383	-8.764	4.500	16.20	ROTSE-III, NOT, Terskol (60 cm), Wise (1m), HETE, Cordell-Lorenz Observatory, MonteBoo, N. Copernicus (40 cm), Konus-Wind, TNG, VLT	2.198 (NOT: absorption)|2.198 (TNG: absorption)|2.199 (VLT: absorption)
+050922B	15:02:00	5.790	-5.607	150.900	22.30
+050916	16:35:52	135.979	-51.406	49.500	9.29
+050915B	21:23:04	219.109	-67.411	40.900	33.80
+050915A	11:22:42	81.688	-28.014	52.000	8.50	PAIRITEL	2.5273 (TOUGH: emission)	R=24.8, V=25.2
+050911	15:59:34	13.710	-38.856	16.200	3.17
+050908	05:42:31	20.457	-12.950	19.400	4.83	New Mexico Sky Observatory, Palomar (60"), KAIT (Lick), PROMPT, VLT, GMOS, AAVSO, WIRO, Keck, Maidanak	3.350 (VLT: absorption)|3.3437 (GMOS: absorption)|3.3440 (Keck: absorption)
+050906	10:32:05	52.802	-14.621	0.258	0.06			Possible: IC 328 (spiral & blue)
+050904	01:51:44	13.770	14.189	174.200	48.30	4.1m SOAR, TAROT, 3.6m TNG, VLT, BOOTES, Keck II, Subaru	6 < z < 8 (SOAR, UNC: photometric)|6.10 (VLT: photometric)|6.29 (Subaru: absorption)
+050827	18:57:15	64.294	18.219	50.000	21.00
+050826	06:18:10	87.761	-2.658	35.500	4.13	MDM Observatory	0.297 (MDM: emission from host)	MDM Observatory|R=21.4, I=20.6, V=22.3, B=23.9
+050824	23:12:16	12.264	22.602	22.600	2.66	1.5m OSN, MASTER, VLT, MDM, HETE-2	0.83 (VLT: emission)
+050822	03:49:29	51.106	-46.030	103.400	24.60
+050820B	23:50:27	135.607	-72.640	12.000	20.60	XMM-Newton
+050820A	06:34:53	337.416	19.560	26	34.40	Palomar (60"), Keck, RAPTOR, WIRO, RTT150, VLT, PROMPT, Konus-Wind, VLA @ 8.46 GHz	2.612 (Keck: absorption)|2.6147 (VLT: absorption)
+050819	16:23:55	358.751	24.871	37.700	3.50		2.5043 (TOUGH: emission)
+050815	17:25:19	293.584	9.139	2.900	0.79
+050814	11:38:57	264.196	46.324	150.900	20.10	NOT	5.3 (NOT: photometric)
+050813	06:45:10	242.001	11.244	0.450	0.44		1.8
+050803	19:14:00	350.650	5.788	87.900	21.50	Magellan, Keck, CrAO	possible redshift:|0.422 (Keck: emission)	Magellan: possible host
+050802	10:08:02	219.283	27.799	19.000	20.00	CrAO, TNG, NOT	1.71 (NOT: absorption)|1.434 (TOUGH: emission)
+050801	18:28:02	204.144	-21.930	19.400	3.10	optical
+050730	19:58:23	212.069	-3.754	156.500	23.80	optical/IR, XMM-Newton, VLA @ 8.5 GHZ	3.96855 (Magellan II: absorption)|3.97 (WHT: absorption)|3.968 (VLT: absorption)
+050726	05:00:18	200.024	-32.064	49.900	19.40
+050724	12:34:09	246.175	-27.526	96.000	9.98	optical, near-IR, RXTE ASM, GMOS, VLA  @ 8.5GHz	0.257 (GMOS: absorption)|0.258 (Keck: absorption)	DSS: possible host galaxy
+050721	04:29:14	253.453	-28.386	98.400	36.20	optical, VLT: optical afterglow confirmation
+050717	10:30:52	214.348	-50.541	85.000	63.10
+050716	12:36:04	338.593	38.683	69.100	61.70	UKIRT: IR afterglow
+050715	22:30:26	155.641	-0.029	51.600	14.90
+050714B	22:40:32	169.691	-15.547	46.700	5.95			R=21.8, I=20.6, V=22.9, B=24.9
+050713B	12:07:18	307.821	60.936	54.200	31.80	Maidanak
+050713A	04:29:02	320.585	77.072	124.700	51.10	Konus, XMM, numerous optical
+050712	14:00:28	77.722	64.924	51.600	10.80
+050701	11:42:59	227.241	-59.399	21.800	13.60
+050607	09:11:23	300.180	9.139	26.400	5.92	Mayall Telescope, MDM Observatory
+050603	06:29:05	39.982	-25.175	12.400	63.60	INTEGRAL (not imaged), LCO, VLA @ 8.5 GHz, SCUBA, Konus-Wind, Magellan
+050528	04:06:45	353.524	45.957	11.300	4.48
+050525A	00:02:53	278.142	26.335	8.800	153.00	VLA @ 22.5 GHz, INTEGRAL, Spitzer, HST, Numerous optical & IR	0.606 (GMOS: emission)
+050509B	04:00:19	189.046	28.974	0.073	0.09	Keck	0.225 (Keck: absorption)	elliptical
+050509A	01:46:29	310.573	54.076	11.400	3.41
+050507	22:43:18	48.063	-11.064	>15	1.67
+050505	23:22:21	141.760	30.266	58.900	24.90	Keck	4.27 (Keck: absorption)
+050502B	09:25:40	142.535	16.987	17.700	4.78
+050422	07:52:40	324.507	55.788	59.300	6.07
+050421	04:11:52	307.341	73.678	15.000	1.45
+050418	11:00:35	44.334	-18.541	82.300	52.10
+050416B	22:35:54	133.848	11.186	3.400	10.80
+050416A	11:04:44	188.485	21.058	2.500	3.67	P60, 200" detection, Keck	0.6535 (Keck: emission)	Faint and blue with large amounts of ongoing star formation.|V=24.2
+050412	05:44:03	181.099	-1.193	26.500	6.18	DFOSC, LCO R~22 @ 1 hr		R=22.4, I=21.6, V=23.4
+050410	12:14:34	89.757	79.605	42.500	41.50
+050406	15:58:48	34.410	-50.180	5.400	0.68	Magellan	2.44 (UVOT: photometric)
+050401	14:20:15	247.873	2.185	33.300	82.20	VLT, optical, ROTSE, Siding Spring R=20 @ 1hr	2.9 (VLT: absorption)
+050326	09:53:56	6.871	-71.377	29.300	88.60	XMM, KONUS, VLT		Host candidates (VLT)
+050319	09:31:18	154.172	43.581	152.500	13.10	ROTSE unfiltered = 16, NOT	3.24 (NOT: absorption)
+050318	15:44:37	49.695	-46.386	32	10.80	Magellan	1.44 (Magellan: absorption)
+050315	20:59:43	306.476	-42.591	95.600	32.20	Magellan, VLA, CTIO IR I=20.7 @ 0.5 day	1.949 (Magellan: absorption)	R=23.9
+050306	03:33:12	282.309	-9.152	158.300	115.00
+050223	03:09:06	271.394	-62.465	22.500	6.36	INTEGRAL/IBIS, XMM, VLT	0.5915 (Magellan: emission from host)|0.584 (VLT: emission from host)	R = 21.6, Ks = 18.9 (VLT)
+050219B	21:05:51	81.306	-57.758	30.700	158.00	VLT
+050219A	12:40:01	166.416	-40.681	23.700	41.10
+050215B	02:33:43	174.463	40.797	8.100	2.27	UKIRT afterglow in IR, HETE-2
+050215A	02:15:29	348.403	49.328	87.300	7.08
+050202	03:35:15	290.584	-38.730	0.270	0.30
+050128	04:19:55	219.587	-34.765	19.200	50.20
+050126	12:00:54	278.115	42.384	24.800	8.38	Keck	1.29 (Keck: emission)
+050124	11:30:03	192.877	13.039	4.000	11.90	Keck K=19.6 @ 24.5 hrs, VLT		Possible host, R = 23.9 (VLT)
+050117	12:52:36	358.479	65.939	166.600	88.10
+041228	10:49:14	336.642	5.032	55.400	34.90
+041226	20:34:19	79.689	73.329	89.700	3.21
+041224	20:20:58	56.192	-6.663	177.200	87.30
+041223	14:06:18	100.204	-37.068	109.100	167.00	VLT J=19.5 @ 16.2 hrs
+041220	22:58:27	291.288	60.598	5.600	3.83
+041219C	20:30:34	343.926	-76.744	4.800	13.10
+041219B	15:38:48	167.674	-33.458	30	n/a	IPN
+041219A	01:42:18	6.154	62.847	520	1550
+041217	07:28:25	164.793	-17.942	5.800	27.70	INTEGRAL/IBIS

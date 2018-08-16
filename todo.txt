@@ -1,0 +1,2 @@
+1. LinearRegression to predict coords for successful gamma radiation vs actual gamma radiation coord
+2. Check for corr
